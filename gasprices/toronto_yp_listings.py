@@ -68,7 +68,7 @@ def address_main():
             gas_dict={}
             json.dump(gas_dict,outfile)
     
-    page_num = 20
+    page_num = 1
     while page_num < 22:
         print('Fetching page ',page_num)
         page_num = get_addresses(page_num)
