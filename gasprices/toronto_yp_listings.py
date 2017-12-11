@@ -6,6 +6,10 @@ Stages:
 3. Search google maps to get the all available prices (diesel, regular, premium, etc.) for all gas stations
 
 4+. and more...
+
+Usage:
+run address_main() to start getting all addresses
+run clean_addresses() to get rid of useless listings
 """
 
 from bs4 import BeautifulSoup
