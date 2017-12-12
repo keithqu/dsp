@@ -1,0 +1,714 @@
+,name,type_A,type_B,type_C,type_D,address,longitude,latitude
+" 12731 Hwy 48   , Whitchurch-Stouffville, Ontario",Ultramar,115.6,130.9,132.9,117.9,"12731 ON-48, Whitchurch-Stouffville, ON L4A 7X3, Canada",-79.282378,43.9763464
+" 1610 Keele St , Toronto - Central, Ontario",Shell,122.9,136.9,144.9,,"1610 Keele St, Toronto, ON M6M 3V9, Canada",-79.4720845,43.6823199
+" 6897 Finch Ave W , Toronto - West, Ontario",Esso,121.9,132.9,142.9,118.9,"6897 Finch Ave W, Etobicoke, ON M9W 0A6, Canada",-79.6173637,43.7346325
+"1 Harwood Ave S , Ajax, Ontario",Pioneer,112.9,,131.9,118.6,"1 Harwood Ave S, Ajax, ON L1S 2C1, Canada",-79.0251004,43.8610274
+"1 Thornhill Woods Dr , Vaughan, Ontario",Esso,122.9,135.9,141.9,118.9,"1 Thornhill Woods Dr, Thornhill, ON L4J 8Y2, Canada",-79.46388639999999,43.8266602
+"1 Westney Rd N , Ajax, Ontario",Petro-Canada,122.9,125.9,131.9,,"1 Westney Rd N, Ajax, ON L1T 1P4, Canada",-79.0412386,43.85815669999999
+"10 Brisdale Dr , Brampton, Ontario",Fortinos,122.4,131.6,138.6,111.6,"10 Brisdale Dr, Brampton, ON L7A 2G8, Canada",-79.81231919999999,43.6830606
+"10 Station St , Ajax, Ontario",Shell,122.9,,,,"10 Station St, Ajax, ON L1S 1R9, Canada",-79.0222625,43.85174
+"1000 Rowntree Dairy Rd , Vaughan, Ontario",Petro-Canada,122.9,,,,"1000 Rowntree Dairy Rd, Woodbridge, ON L4L 5V8, Canada",-79.56811429999999,43.7841385
+"1000 The Queensway , Toronto - West, Ontario",Esso,117.9,135.9,141.9,,"1000 The Queensway, Etobicoke, ON M8Z 1P6, Canada",-79.5153431,43.623835
+"10010 McLaughlin Rd N , Brampton, Ontario",Esso,119.2,132.9,138.9,,"10010 McLaughlin Rd N, Brampton, ON L7A 2X6, Canada",-79.7984401,43.6958598
+"10016 Bayview Ave , Richmond Hill, Ontario",Shell,122.9,135.9,144.9,,"10016 Bayview Ave, Richmond Hill, ON L4C 2K9, Canada",-79.4159277,43.8762496
+"10021 McLaughlin Rd , Brampton, Ontario",Canadian Tire,118.5,125.9,137.9,118.1,"10021 McLaughlin Rd, Brampton, ON L7A 2X5, Canada",-79.797691,43.69680899999999
+"1007 Upper Middle Rd E , Oakville, Ontario",Petro-Canada,122.6,135.9,141.9,,"1007 Upper Middle Rd E, Oakville, ON L6H 4L1, Canada",-79.6954899,43.4812102
+"10115 Bramalea Rd , Brampton, Ontario",Petro-Canada,119.9,131.9,137.9,120.9,"10115 Bramalea Rd, Brampton, ON L6R 1W6, Canada",-79.7472607,43.7472528
+"1015 Sheppard Ave E , Toronto - North, Ontario",Canadian Tire,122.9,,137.9,,"1015 Sheppard Ave E, Toronto, ON M2K, Canada",-79.3727557,43.7695501
+"10178 Hurontario St , Brampton, Ontario",Shell,120.5,134.5,142.5,119.9,"10178 Hurontario St, Brampton, ON L7A 0E4, Canada",-79.7922961,43.7089456
+"10187 Kennedy Rd N , Brampton, Ontario",Mac's,118.7,130.7,,,"10187 Kennedy Rd N, Brampton, ON L6Z 0C5, Canada",-79.7813803,43.7198657
+"1020 Dundas St W , Oakville, Ontario",Petro-Canada,122.9,,,,"1020 Dundas St W, Oakville, ON L6H 6Z6, Canada",-79.7450882,43.4641068
+"1021 Avenue Rd , Toronto - Central, Ontario",Petro-Canada,122.3,,,,"1021 Avenue Rd, Toronto, ON M4V, Canada",-79.40289469999999,43.69075900000001
+"1030 Centre St , Vaughan, Ontario",Esso,,134.9,140.9,,"1030 Centre St, Vaughan, ON L4J 3M8, Canada",-79.4591038,43.8092677
+"1039 Danforth Rd , Toronto - East, Ontario",Esso,121.9,134.9,140.9,124.9,"1039 Danforth Rd, Scarborough, ON M1K 1J8, Canada",-79.2474344,43.73455980000001
+"10511 Bramalea Rd , Brampton, Ontario",Shell,119.9,130.9,144.9,118.9,"10511 Bramalea Rd, Brampton, ON L6r 3p4, Canada",-79.7574593,43.754753
+"1052 Pape Ave , Toronto - Central, Ontario",Eagle,118.9,128.9,134.9,,"1052 Pape Ave, Toronto, ON M4K, Canada",-79.3493917,43.6902867
+"10561 Heart Lake Rd , Brampton, Ontario",Petro-Canada,116.5,135.9,141.9,,"10561 Heart Lake Rd, Brampton, ON L6Z 0B6, Canada",-79.7798901,43.7361868
+"10579 Yonge St , Richmond Hill, Ontario",Esso,122.9,128.9,134.9,,"10579 Yonge St, Richmond Hill, ON L4C 3C5, Canada",-79.4400301,43.8853601
+"10601 Chinguacousy  Rd , Brampton, Ontario",Mac's,118.5,130.5,137.5,111.6,"10601 Chinguacousy Rd, Brampton, ON L7A 0N5, Canada",-79.8228307,43.6973528
+"10606 Heart Lake Rd , Brampton, Ontario",Esso,116.5,132.9,138.9,,"10606 Heart Lake Rd, Brampton, ON L6Z 0B3, Canada",-79.7815809,43.7363266
+"10700 Bathurst St , Vaughan, Ontario",Shell,119.9,128.9,136.9,121.9,"10700 Bathurst St, Maple, ON L6A 4B6, Canada",-79.4679216,43.8835997
+"10749 Bathurst St , Richmond Hill, Ontario",Petro-Canada,119.9,,137.9,,"10749 Bathurst St, Richmond Hill, ON L4C 7V3, Canada",-79.4668154,43.8838769
+"1075 Martin Grove Rd , Toronto - West, Ontario",Esso,122.9,,,,"1075 Martin Grove Rd, Etobicoke, ON M9W 4W6, Canada",-79.5750219,43.7016662
+"10750 Jane St , Vaughan, Ontario",Esso,120.5,132.9,,,"10750 Jane St, Maple, ON L6A 1S1, Canada",-79.5416542,43.8679459
+"1077 Yonge St , Toronto - Central, Ontario",Shell,122.9,134.9,,120.9,"1077 Yonge St, Toronto, ON M4W 2L5, Canada",-79.39023209999999,43.6793757
+"1081 Rutherford Rd , Vaughan, Ontario",Petro-Canada,122.9,,,,"1081 Rutherford Rd, Thornhill, ON L4J 9C2, Canada",-79.4695694,43.8449377
+"1095 Don Mills Rd , Toronto - Central, Ontario",Petro-Canada,122.9,,,,"770 Don Mills Rd, Toronto, ON L6H 4L2, Canada",-79.338713,43.716465
+"1095 Lakeshore Rd W , Mississauga, Ontario",Pioneer,119.6,,,,"1095 Lakeshore Rd W, Mississauga, ON L5H 1J3, Canada",-79.6079063,43.5315792
+"10980 Bramalea Rd , Brampton, Ontario",Mac's,122.6,129.6,136.6,114.6,"10980 Bramalea Rd, Brampton, ON L6R, Canada",-79.7701099,43.7635759
+"110 Rexdale Blvd , Toronto - West, Ontario",Petro-Canada,122.9,,,,"110 Rexdale Blvd, Etobicoke, ON M9W 1P5, Canada",-79.56542569999999,43.712576
+"1100 Kerr St , Oakville, Ontario",Canadian Tire,122.9,,,,"1100 Kerr St, Oakville, ON L6M 0L4, Canada",-79.6990077,43.4498099
+"1110 Bathurst St , Toronto - Central, Ontario",Esso,113.9,126.9,132.9,,"1110 Bathurst St, Toronto, ON M5R 3H2, Canada",-79.41471059999999,43.673404
+"11151 Yonge St , Richmond Hill, Ontario",Shell,122.9,,144.9,118.9,"11151 Yonge St, Richmond Hill, ON L4S 1L2, Canada",-79.4428939,43.8991366
+"1121 Broadview Ave , Toronto - Central, Ontario",Ultramar,122.9,,,,"1121 Broadview Ave, East York, ON M4K 2S4, Canada",-79.355684,43.686882
+"1121 Kingston Rd , Toronto - East, Ontario",Petro-Canada,118.9,131.9,137.9,,"1121 Kingston Rd, Scarborough, ON M1N, Canada",-79.2811863,43.6813265
+"1123 Dorval Dr , Oakville, Ontario",Petro-Canada,122.9,,,,"1123 Dorval Dr, Oakville, ON L6M 3H9, Canada",-79.70438120000001,43.4497702
+"1125 Sheppard Ave E , Toronto - North, Ontario",Amco,120.8,,,,"1125 Sheppard Ave E, North York, ON M2K, Canada",-79.37059889999999,43.7700037
+"1138 Sheppard Ave W , Toronto - North, Ontario",Esso,122.9,,,118.9,"1138 Sheppard Ave W, North York, ON M3K 2A2, Canada",-79.467158,43.752349
+"1144 Davis Dr , Newmarket, Ontario",Esso,,134.9,140.9,119.9,"1144 Davis Dr, Newmarket, ON L3Y 8X4, Canada",-79.42916509999999,44.0660046
+"1149 Morningside Ave , Toronto - East, Ontario",Esso,118.9,135.9,141.9,118.9,"1149 Morningside Ave, Scarborough, ON M1B, Canada",-79.1992363,43.8017295
+"115 Salem Rd S , Ajax, Ontario",Shell,113.9,126.9,132.9,119.9,"115 Salem Rd S, Ajax, ON L1Z 2C9, Canada",-79.0140562,43.8600473
+"1150 Markham Rd , Toronto - East, Ontario",Esso,122.9,135.9,141.9,119.9,"1150 Markham Rd, Scarborough, ON M1H 2Y6, Canada",-79.23212459999999,43.7759949
+"11600 Keele St , Vaughan, Ontario",Petro-Canada,120.5,133.9,139.9,,"11600 Keele St, Maple, ON L6A 1S1, Canada",-79.5215855,43.8920263
+"1161 Kingston Rd , Toronto - East, Ontario",Top Valu,112.9,126.4,133.9,112.6,"1161 Kingston Rd, Scarborough, ON M1N 1P2, Canada",-79.2798504,43.6817365
+"117 Jarvis St , Toronto - South, Ontario",Petro-Canada,122.9,135.9,141.9,,"117 Jarvis St, Toronto, ON M5C 2H6, Canada",-79.372186,43.6530198
+"1175 Hurontario St , Mississauga, Ontario",Petro-Canada,122.9,,,,"1175 Hurontario St, Mississauga, ON L5G 3H1, Canada",-79.58621,43.5587972
+"1175 Mulock Dr , Newmarket, Ontario",Esso,122.9,,,,"1175 Mulock Dr, Newmarket, ON L3Y 8E6, Canada",-79.4214642,44.0492401
+"118 Orenda Rd , Brampton, Ontario",Econo,122.9,,,119.9,"118 Orenda Rd, Brampton, ON L6W 3W6, Canada",-79.7348611,43.6952281
+"11865 Hurontario St , Brampton, Ontario",Santak Pump,115.9,123.9,133.9,116.9,"11865 Hurontario St, Brampton, ON L6Z 4P7, Canada",-79.823239,43.7329549
+"1195 Danforth Ave , Toronto - Central, Ontario",Esso,114.9,127.0,136.0,,"1195 Danforth Ave, Toronto, ON M4J 1M7, Canada",-79.33189519999999,43.6813414
+"1195 Davis Dr , Newmarket, Ontario",Petro-Canada,,129.9,135.9,121.9,"1195 Davis Dr, Newmarket, ON L3Y 8R1, Canada",-79.42686379999999,44.0673094
+"11980 Hurontario St , Brampton, Ontario",Petro-Canada,116.5,130.9,,120.9,"11980 Hurontario St, Brampton, ON L7A 1E6, Canada",-79.82481159999999,43.7330718
+"12 Orchard Dr , Brampton, Ontario",XTR,118.9,,140.9,,"12 Orchard Dr, Brampton, ON L6W 2V6, Canada",-79.72548859999999,43.67410030000001
+"120 Thompson Rd S , Milton, Ontario",[email protected],,,,118.6,"120 Thompson Rd S, Milton, ON L9T 0J4, Canada",-79.86473389999999,43.5260293
+"12001 Hwy 400 NB , Vaughan, Ontario",Canadian Tire,125.3,,,,"12001 ON-400 #1S1, King City, ON L7B 1A8, Canada",-79.5574951,43.8950319
+"1201 Markham Rd , Toronto - East, Ontario",Shell,122.9,135.9,143.9,,"1201 Markham Rd, Scarborough, ON M1H 2Y8, Canada",-79.2313617,43.7769248
+"12011 Hurontario St , Brampton, Ontario",Petro-Canada,116.5,,,125.9,"12011 Hurontario St, Brampton, ON L6Z 4P8, Canada",-79.8250511,43.7342665
+"12016 Airport Rd , Caledon, Ontario",Shell,120.6,135.9,139.9,118.9,"12016 Airport Rd, Caledon, ON L7C 2W1, Canada",-79.7608869,43.79128559999999
+"1202 Dundas St E , Mississauga, Ontario",Canadian Tire,122.9,,,,"1202 Dundas St E, Mississauga, ON L4Y 2C1, Canada",-79.588043,43.6048277
+"1209 Dundas St W , Mississauga, Ontario",Shell,119.9,,,,"1209 Dundas St W, Mississauga, ON L5C 1C4, Canada",-79.64600370000001,43.5551799
+"121 Kennedy Rd N , Brampton, Ontario",Petro-Canada,122.7,135.9,141.9,120.9,"121 Kennedy Rd N, Brampton, ON L6V 1X7, Canada",-79.7587865,43.7022149
+"1212 Southdown Rd , Mississauga, Ontario",Canadian Tire,122.9,,137.9,,"1212 Southdown Rd, Mississauga, ON L5J 2Z2, Canada",-79.6357314,43.51482559999999
+"12264 10th Line , Whitchurch-Stouffville, Ontario",Petro-Canada,122.9,,,,"12264 Tenth Line, Whitchurch-Stouffville, ON L4A 7W6, Canada",-79.2317789,43.9751436
+"1232 Bayview Ave , Toronto - Central, Ontario",Petro-Canada,123.3,136.9,,,"1232 Bayview Ave, Toronto, ON M4G 3A1, Canada",-79.3722109,43.6969492
+"12338 Yonge St , Richmond Hill, Ontario",Esso,116.9,130.9,134.9,119.9,"12338 Yonge St, Richmond Hill, ON L4C 6Z6, Canada",-79.4519918,43.9285237
+"1235 Williams Pkwy E , Brampton, Ontario",Shell,118.9,131.9,139.9,122.9,"1235 Williams Pkwy, Brampton, ON L6S 3K6, Canada",-79.74224579999999,43.7247095
+"12476 Hwy 50 , Caledon, Ontario",Husky,119.9,130.9,137.9,113.7,"12476 Hwy 50, Bolton, ON L7E 1M7, Canada",-79.70806300000001,43.85723050000001
+"1260 Eglinton Ave W , Mississauga, Ontario",Shell,119.9,,,,"1260 Eglinton Ave W, Mississauga, ON L5V 1H8, Canada",-79.6844179,43.5778286
+"1270 Brimley Rd , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,,"1270 Brimley Rd, Scarborough, ON M1P 3G6, Canada",-79.2616774,43.769724
+"12717 Woodbine Ave , Whitchurch-Stouffville, Ontario",Esso,119.9,,139.9,,"12717 Woodbine Ave, Gormley, ON L0H 1G0, Canada",-79.3804775,43.9535104
+"12871 Yonge St , Richmond Hill, Ontario",Petro-Canada,120.9,130.9,136.9,120.9,"12871 Yonge St, Richmond Hill, ON L4E 0K8, Canada",-79.453418,43.941345
+"12891 Yonge St , Richmond Hill, Ontario",Ultramar,120.9,131.6,135.6,116.9,"12891 Yonge St, Richmond Hill, ON L4E 0T7, Canada",-79.453623,43.9424838
+"1292 Dupont St , Toronto - Central, Ontario",Shell,113.9,128.9,134.9,122.9,"1292 Dupont St, Toronto, ON M6H 2A4, Canada",-79.4440468,43.6676469
+"12985 Bathurst St , Richmond Hill, Ontario",Shell,118.9,132.9,135.9,119.9,"12985 Bathurst St, Richmond Hill, ON L4E 3N2, Canada",-79.4808175,43.9385471
+"1299 Kingston Rd , Pickering, Ontario",Petro-Canada,122.9,135.9,141.9,,"1299 Kingston Rd, Pickering, ON L1V 1B5, Canada",-79.0908245,43.8348502
+"130 Queen St E , Brampton, Ontario",Speedy Gas,125.9,,,117.9,"130 Queen St E, Brampton, ON L6V 1B1, Canada",-79.755163,43.690655
+"130 Rossland Rd W , Ajax, Ontario",7-Eleven,113.9,,128.9,,"130 Rossland Rd W, Ajax, ON L1T 4N6, Canada",-79.0439427,43.8761348
+"1309 Lawrence Ave E , Toronto - Central, Ontario",Esso,122.9,135.9,141.9,120.9,"4218 Lawrence Ave E, Scarborough, ON M1E 4X9, Canada",-79.1842527,43.7694535
+"13094 Yonge St , Richmond Hill, Ontario",Pioneer,,127.1,134.6,118.6,"13094 Yonge St, Richmond Hill, ON L4E 0K2, Canada",-79.4556877,43.9468099
+"1334 Dundas St E , Mississauga, Ontario",Petro-Canada,122.9,,,,"1334 Dundas St E, Mississauga, ON L4Y 4G4, Canada",-79.5846074,43.6076552
+"1345 Lawrence Ave E , Toronto - Central, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"1345 Lawrence Ave E, North York, ON M3A 1C6, Canada",-79.3196736,43.74071240000001
+"1349 Burnhamthorpe Rd E , Mississauga, Ontario",Shell,121.7,134.9,140.9,118.9,"1349 Burnhamthorpe Rd E, Mississauga, ON L4Y 3V8, Canada",-79.6034672,43.6224629
+"135 Rexdale Blvd  , Toronto - West, Ontario",Shell,120.9,,,,"135 Rexdale Blvd, Etobicoke, ON M9W 1P7, Canada",-79.5670607,43.7112382
+"13735 Bathurst St , Richmond Hill, Ontario",Esso,116.9,132.9,135.9,119.9,"13735 Bathurst St, Richmond Hill, ON L4E 3Z1, Canada",-79.4849337,43.9571197
+"140 Father Tobin Rd , Brampton, Ontario",7-Eleven,122.6,,,114.6,"140 Father Tobin Rd, Brampton, ON L6R 0J2, Canada",-79.7563634,43.7717446
+"140 Kennedy Rd N , Brampton, Ontario",Esso,122.9,135.9,141.9,,"140 Kennedy Rd N, Brampton, ON L6V 2N4, Canada",-79.7587927,43.70319260000001
+"1400 Britannia Rd E , Mississauga, Ontario",Flying J,,,,123.9,"1400 Britannia Rd E, Mississauga, ON L4W 1C8, Canada",-79.64907579999999,43.6536054
+"1401 Matheson Blvd E , Mississauga, Ontario",Pioneer,,,130.7,120.9,"1401 Matheson Blvd E, Mississauga, ON L4W 1E3, Canada",-79.63039719999999,43.6422842
+"1404 Dundas St E , Mississauga, Ontario",Esso,116.9,134.9,135.9,,"1404 Dundas St E, Mississauga, ON L4X 1L4, Canada",-79.5829298,43.6094096
+"1405 Southdown Rd , Mississauga, Ontario",Petro-Canada,120.7,130.9,136.9,120.9,"1405 Southdown Rd, Mississauga, ON L5J 2Y9, Canada",-79.64015619999999,43.5192249
+"1411 Warden Ave , Toronto - East, Ontario",Costco,109.9,,121.9,,"1411 Warden Ave, Scarborough, ON M1R 2S3, Canada",-79.2977358,43.7594291
+"145 Clark Blvd , Brampton, Ontario",Esso,119.6,130.9,138.9,118.9,"145 Clark Blvd, Brampton, ON L6T 4G6, Canada",-79.7268527,43.7045053
+"1471 O'Connor Dr , Toronto - Central, Ontario",OP,115.5,121.9,127.9,,"1471 O'Connor Dr, East York, ON M4B 2V5, Canada",-79.3060576,43.7137634
+"1472 Wellington St E , Aurora, Ontario",Esso,118.4,129.9,135.9,118.9,"1472 Wellington St E, Aurora, ON L4G 7B7, Canada",-79.4194977,44.0110445
+"14721 Yonge St , Aurora, Ontario",Canadian Tire,122.9,132.9,137.9,,"14721 Yonge St, Aurora, ON L4G 1N1, Canada",-79.4638626,43.987063
+"1480 Britannia Rd E , Mississauga, Ontario",Shell,115.9,129.9,137.9,118.9,"1480 Britannia Rd E, Mississauga, ON L4W 1C8, Canada",-79.64746439999999,43.65464559999999
+"1480 Kennedy Rd , Toronto - East, Ontario",Esso,122.9,135.9,141.9,119.9,"1480 Kennedy Rd, Scarborough, ON M1P 2L7, Canada",-79.28155579999999,43.7653582
+"1485 Elgin Mills Rd E , Richmond Hill, Ontario",Esso,122.9,135.9,141.9,119.9,"1485 Elgin Mills Rd E, Richmond Hill, ON L4S 1M8, Canada",-79.3963538,43.8977842
+"1487 Centre St , Vaughan, Ontario",Petro-Canada,122.9,135.9,,118.9,"1487 Centre St, Vaughan, ON L4J, Canada",-79.4738299,43.8053458
+"14923 Yonge St , Aurora, Ontario",Esso,122.9,134.9,,,"14923 Yonge St, Aurora, ON L4G 1M8, Canada",-79.4653125,43.9918445
+"1494 Wellington St W , King Township, Ontario",Pioneer,118.9,,,,"1494 Wellington St W, King City, ON L7B 1K5, Canada",-79.5173621,43.9894675
+"1498 Royal York Rd , Toronto - West, Ontario",Husky,122.7,,,118.7,"1498 Royal York Rd, Etobicoke, ON M9P 3B5, Canada",-79.530647,43.6906233
+"1499 Upper Middle Rd  , Oakville, Ontario",Esso,122.9,132.9,138.9,,"1499 Upper Middle Rd W, Oakville, ON L6M 3Y3, Canada",-79.7434176,43.4382177
+"150 Dupont St , Toronto - Central, Ontario",Esso,113.9,135.9,141.9,,"150 Dupont St, Toronto, ON M5R 2E6, Canada",-79.4032409,43.67594889999999
+"150 Kingston Rd E , Ajax, Ontario",Costco,110.9,,122.9,,"150 Kingston Rd E, Ajax, ON L1Z 0C7, Canada",-79.0184539,43.86294970000001
+"150 Lakeshore Rd E , Mississauga, Ontario",Pioneer,119.6,,,,"150 Lakeshore Rd E, Mississauga, ON L5G 1E9, Canada",-79.5813956,43.5562793
+"1500 Finch Ave E , Toronto - North, Ontario",Esso,122.9,,,,"1500 Finch Ave E, North York, ON M2J 4Y6, Canada",-79.3543255,43.7932031
+"1500 Major Mackenzie Dr W , Vaughan, Ontario",Esso,120.5,,,,"1500 Major MacKenzie Dr W, Maple, ON L6A 0A9, Canada",-79.4883175,43.8616126
+"1500 Wilson Ave , Toronto - North, Ontario",Petroleum Plus,119.9,,,,"1500 Wilson Ave, Toronto, ON M3M, Canada",-79.5062545,43.7212448
+"1501 Wellington St E , Aurora, Ontario",Shell,118.4,130.9,138.9,118.9,"1501 Wellington St E, Aurora, ON L4G 7B8, Canada",-79.41777130000001,44.010604
+"1505 Steeles Ave E , Toronto - North, Ontario",Esso,122.9,,,,"1505 Steeles Ave E, North York, ON M2M 3Y7, Canada",-79.3852191,43.8053144
+"1510 Albion Rd , Toronto - West, Ontario",Shell,122.9,136.9,144.9,,"1510 Albion Rd, Etobicoke, ON M9V 1B3, Canada",-79.5809933,43.7400349
+"1510 Markham Rd , Toronto - East, Ontario",Esso,118.9,132.9,138.9,119.9,"1510 Markham Rd, Scarborough, ON M1H, Canada",-79.2317819,43.77633669999999
+"1514 Steeles Ave W , Toronto - North, Ontario",Petro-Canada,122.9,135.9,141.9,,"1514 Steeles Ave E, Toronto, ON L3R, Canada",-79.3259375,43.8192352
+"1515 King Rd , King Township, Ontario",Esso,122.9,,,118.9,"1515 King Rd, King City, ON L7B 1L4, Canada",-79.5054061,43.9335998
+"1515 Main St E , Milton, Ontario",Esso,,,,119.9,"1515 Main St E, Milton, ON L9T 0R3, Canada",-79.85633539999999,43.53866259999999
+"1520 Britannia Rd W , Mississauga, Ontario",Petro-Canada,117.9,130.9,139.9,,"1520 Britannia Rd W, Mississauga, ON L5M 6A1, Canada",-79.7119656,43.5969016
+"1520 Courtneypark Dr E , Mississauga, Ontario",Ultramar,114.9,125.9,137.9,118.9,"1520 Courtneypark Dr E, Mississauga, ON L5T 2C7, Canada",-79.6573994,43.6633857
+"1520 Shawson Dr , Mississauga, Ontario",Canadian Tire,114.9,133.9,139.9,118.9,"1520 Shawson Dr, Mississauga, ON L4W 4W9, Canada",-79.64296,43.652596
+"1525 Eglinton Ave W , Toronto - Central, Ontario",Petro V Plus,117.4,125.5,133.5,116.5,"1525 Eglinton Ave W, Toronto, ON M6C, Canada",-79.4351898,43.6990529
+"1525 Markham Rd , Toronto - East, Ontario",Petro-Canada,118.9,132.9,138.9,119.9,"1525 Markham Rd, Scarborough, ON M1B 2W1, Canada",-79.2369947,43.7896874
+"15255 Leslie St , Aurora, Ontario",Ultramar,118.4,132.4,135.4,118.9,"15255 Leslie St, Aurora, ON L4G 7C7, Canada",-79.4183255,44.0112972
+"1528 Dundas St W , Oakville, Ontario",Shell,122.9,134.9,142.9,118.9,"1528 Dundas St W, Oakville, ON L6M 4H8, Canada",-79.75972990000001,43.4502099
+"1537 Trafalgar Rd , Oakville, Ontario",Husky,120.2,,,118.7,"1537 Trafalgar Rd, Oakville, ON L6H 7H3, Canada",-79.7011921,43.4750132
+"15440 Yonge St , Aurora, Ontario",Petro-Canada,,134.9,,,"15440 Yonge St, Aurora, ON L4G 1P2, Canada",-79.4693343,44.0042633
+"155 North Service Rd , Mississauga, Ontario",Husky,122.9,,,,"155 N Service Rd, Mississauga, ON L5A 1A2, Canada",-79.5964901,43.57215
+"1550 North Service Rd W , Oakville, Ontario",Petro-Canada,122.9,135.9,141.9,,"1550 North Service Rd W, Oakville, ON L6M 4A1, Canada",-79.7274755,43.42662989999999
+"1553 Shawson Dr , Mississauga, Ontario",Husky,112.9,124.9,130.9,118.9,"1553 Shawson Dr, Mississauga, ON L4W 1T7, Canada",-79.6429823,43.6539771
+"15612 Yonge St , Aurora, Ontario",Petro-Canada,,134.9,,,"15612 Yonge St, Aurora, ON L4G 1P2, Canada",-79.4701747,44.0085692
+"15641 Hwy 48 , Whitchurch-Stouffville, Ontario",Pioneer,116.9,126.4,133.9,115.9,"15641 ON-48, Whitchurch-Stouffville, ON L4A 7X4, Canada",-79.2993065,44.0475229
+"1570 Dundas St E , Mississauga, Ontario",Costco,109.9,,121.9,,"1570 Dundas St E, Mississauga, ON L4X 1L4, Canada",-79.57577619999999,43.6103044
+"1570 Wilson Ave , Toronto - North, Ontario",Shell,122.9,136.9,144.9,,"1570 Wilson Ave, North York, ON M3L 1A3, Canada",-79.50914089999999,43.7211914
+"1571 Lawrence Ave W , Toronto - Central, Ontario",Petro-Canada,122.9,,,,"4218 Lawrence Ave E, Scarborough, ON M1E 4X9, Canada",-79.1842527,43.7694535
+"1575 Warden Ave  , Toronto - East, Ontario",Shell,122.9,135.9,143.9,119.9,"1575 Warden Ave, Toronto, ON M1R 2S9, Canada",-79.3016715,43.76577390000001
+"158 Hunt St , Ajax, Ontario",Falcon,122.9,,,120.9,"158 Hunt St, Ajax, ON L1S 1P5, Canada",-79.025621,43.8465867
+"1585 Bathurst St , Toronto - Central, Ontario",Shell,122.9,,,,"1585 Bathurst St, Toronto, ON M5P 3H8, Canada",-79.4199641,43.6879698
+"160 Main St S , Brampton, Ontario",Esso,122.7,133.9,139.9,117.9,"160 Main St S, Brampton, ON L6Y 1N2, Canada",-79.7473693,43.6779598
+"1612 The Queensway , Toronto - West, Ontario",Canadian Tire,117.9,127.9,132.9,,"1612 The Queensway, Etobicoke, ON M8Z 1V1, Canada",-79.54466699999999,43.6171155
+"1615 Ellesmere Rd , Toronto - East, Ontario",Esso,119.9,135.9,141.9,119.9,"1615 Ellesmere Rd, Toronto, ON M1P 2Y3, Canada",-79.2518971,43.7717232
+"1640 The Queensway , Toronto - West, Ontario",Petro-Canada,119.9,133.9,139.9,119.9,"1640 The Queensway, Etobicoke, ON M8Z 1V1, Canada",-79.5459161,43.6168869
+"1641 Markham Rd , Toronto - East, Ontario",Esso,119.9,132.9,139.9,118.9,"1641 Markham Rd, Scarborough, ON M1B 2W1, Canada",-79.2380682,43.7936744
+"1651 Ellesmere Rd , Toronto - East, Ontario",Petro-Canada,119.9,,,,"1651 Ellesmere Rd, Scarborough, ON M1H, Canada",-79.2507998,43.77212189999999
+"16634 Yonge St , Newmarket, Ontario",Shell,118.3,,,,"16634 Yonge St, Newmarket, ON L3X 2N8, Canada",-79.4758427,44.0330535
+"1666 Albion Rd , Toronto - West, Ontario",Canadian Tire,122.9,,,,"1666 Albion Rd, Etobicoke, ON M9V 1B8, Canada",-79.594858,43.74240899999999
+"1670 McCowan Rd , Toronto - East, Ontario",Shell,119.9,132.9,141.9,,"1670 McCowan Rd, Scarborough, ON M1S, Canada",-79.2575325,43.787004
+"1695 Bayly St , Pickering, Ontario",Petro-Canada,119.6,133.9,139.9,120.9,"1695 Bayly St, Pickering, ON L1W 2Z1, Canada",-79.068088,43.832248
+"16995 Yonge St , Newmarket, Ontario",Amco,116.9,,,119.9,"16995 Yonge St, Newmarket, ON L3Y 5Y1, Canada",-79.47697409999999,44.0424914
+"1700 Derry Rd E , Mississauga, Ontario",Husky,119.7,123.9,130.9,118.7,"1700 Derry Rd E, Mississauga, ON L5S 1X8, Canada",-79.66869489999999,43.6794181
+"1700 King Rd , King Township, Ontario",Shell,118.9,136.9,,118.9,"1700 King Rd, King City, ON L7B, Canada",-79.5076532,43.9343602
+"1707 Queen St E , Brampton, Ontario",Pioneer,119.6,129.1,136.6,111.6,"1707 Queen St E, Brampton, ON L6T 2H2, Canada",-79.7182067,43.72303429999999
+"1709 Kingston Rd , Pickering, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"1709 Kingston Rd, Pickering, ON L1V 1C5, Canada",-79.0732376,43.8478407
+"1715 Bloor St E , Mississauga, Ontario",Shell,120.7,,,,"1715 Bloor St, Mississauga, ON L4X 1S5, Canada",-79.5876179,43.6236685
+"1715 Dundas St W , Toronto - South, Ontario",Dundas Gas Bars,122.9,132.9,142.9,,"1715 Dundas St W, Toronto, ON M6K 1V4, Canada",-79.43850069999999,43.6498413
+"1723 Victoria Park Ave , Toronto - East, Ontario",Esso,120.8,132.8,138.8,119.8,"1723 Victoria Park Ave, Scarborough, ON M1R 1S1, Canada",-79.3071255,43.73667529999999
+"1725 Eglinton Ave E , Toronto - Central, Ontario",Esso,122.9,,,,"1725 Eglinton Ave W, York, ON M6E 2H4, Canada",-79.44672229999999,43.696151
+"1735 Pickering Pkwy , Pickering, Ontario",Canadian Tire,122.9,,136.9,,"1735 Pickering Pkwy, Pickering, ON L1V 7C7, Canada",-79.07042589999999,43.8427024
+"1740 Bayly St , Pickering, Ontario",Husky,119.6,130.5,137.5,112.7,"1740 Bayly St, Pickering, ON L1W 3N3, Canada",-79.0653423,43.8339811
+"1750 Bloor St W , Toronto - Central, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"1750 Bloor St W, Toronto, ON M6P 4H6, Canada",-79.4475882,43.6574639
+"1755 Albion Rd , Toronto - West, Ontario",Petro-Canada,122.9,,,,"1755 Albion Rd, Etobicoke, ON M9V 1C3, Canada",-79.60685509999999,43.7437505
+"17551 Woodbine Ave , East Gwillimbury, Ontario",Esso,,,137.9,123.9,"17551 Woodbine Ave, East Gwillimbury, ON L9N 0L6, Canada",-79.4074189,44.0720165
+"176 Front St E , Toronto - South, Ontario",Esso,122.9,135.9,141.9,110.9,"176 Front St E, Toronto, ON M5A 1E6, Canada",-79.36769389999999,43.6506374
+"1762 Dundas St W , Toronto - South, Ontario",Ultramar,117.9,,,116.9,"1762 Dundas St W, Toronto, ON M6K 1V6, Canada",-79.44031749999999,43.650461
+"1765 Albion Rd , Toronto - West, Ontario",Shell,122.9,136.9,144.9,124.9,"1765 Albion Rd, Etobicoke, ON M9W 5S7, Canada",-79.6081324,43.74378
+"1765 Lakeshore Rd W , Mississauga, Ontario",Esso,120.9,,,,"1765 Lakeshore Rd W, Mississauga, ON L5J 2V8, Canada",-79.6237137,43.5170979
+"17740 Yonge St , Newmarket, Ontario",Canadian Tire,118.9,,,118.6,"17740 Yonge St, Newmarket, ON L3Y 8P4, Canada",-79.4828977,44.0595307
+"1780 O'Connor Dr , Toronto - Central, Ontario",Canadian Tire,119.6,129.1,134.1,116.9,"1780 O'Connor Dr, North York, ON M4A 1W7, Canada",-79.3048122,43.7196077
+"1795 Steeles Ave E , Brampton, Ontario",Canadian Tire,119.7,127.9,134.7,114.9,"1795 Steeles Ave E, Brampton, ON L6T 4L5, Canada",-79.68932370000002,43.7052199
+"1799 Liverpool Rd , Pickering, Ontario",Esso,122.9,135.9,141.9,118.9,"1799 Liverpool Rd, Pickering, ON L1V 1W2, Canada",-79.0890648,43.8338933
+"1800 Bayview Ave , Toronto - Central, Ontario",Shell,122.9,,,,"Bayview Ave, Toronto, ON, Canada",-79.35656329999999,43.6632608
+"1800 Brock Rd , Pickering, Ontario",Petro-Canada,122.9,,141.9,120.9,"1800 Brock Rd, Pickering, ON L1V 4G2, Canada",-79.072724,43.8431456
+"1805 Victoria Park Ave , Toronto - East, Ontario",Shell,122.9,136.9,144.9,,"1805 Victoria Park Ave, Scarborough, ON M1R 1T3, Canada",-79.3096066,43.7425422
+"18080 Yonge St , Newmarket, Ontario",Husky,117.9,126.9,133.9,,"18080 Yonge St, Newmarket, ON L3Y 8V1, Canada",-79.48424659999999,44.0681374
+"18182 Yonge St , East Gwillimbury, Ontario",Costco,113.9,,125.9,,"18182 Yonge St, East Gwillimbury, ON L9N 0J3, Canada",-79.48942930000001,44.07118980000001
+"18215 Yonge St , East Gwillimbury, Ontario",Petro-Canada,117.9,131.9,137.9,120.9,"18215 Yonge St, East Gwillimbury, ON L9N 0H9, Canada",-79.4840108,44.0726535
+"18233 Leslie St , East Gwillimbury, Ontario",Shell,,,,118.9,"18233 Leslie St, Newmarket, ON L3Y 9A5, Canada",-79.4363601,44.08349380000001
+"18263 Yonge St , East Gwillimbury, Ontario",Shell,117.6,129.9,137.9,118.6,"18263 Yonge St, East Gwillimbury, ON L9N 0J1, Canada",-79.4844978,44.073294
+"18273 Leslie St , East Gwillimbury, Ontario",Esso,,,,118.9,"18273 Leslie St, Sharon, ON L0G 1V0, Canada",-79.4362063,44.0846914
+"1840 Bayview Ave , Toronto - Central, Ontario",Esso,122.9,,,,"Bayview Ave, Toronto, ON, Canada",-79.35656329999999,43.6632608
+"1860 Ellesmere Rd , Toronto - East, Ontario",Petro-Canada,,134.9,,,"1860 Ellesmere Rd, Scarborough, ON M1H 2V5, Canada",-79.24289499999999,43.7741331
+"1865 Avenue Rd , Toronto - Central, Ontario",Esso,122.9,,,,"Avenue Rd, Toronto, ON, Canada",-79.3986264,43.6797334
+"1867 Major Mackenzie Dr , Vaughan, Ontario",Petro-Canada,120.5,134.9,140.9,120.9,"1867 Major MacKenzie Dr W, Maple, ON L6A 0P5, Canada",-79.49924089999999,43.8579595
+"1869 Leslie St , Toronto - Central, Ontario",Esso,122.9,135.9,141.9,,"Leslie St, Toronto, ON, Canada",-79.3295941,43.661829
+"1890 Jane St , Toronto - Central, Ontario",Esso,122.9,,,119.9,"1890 Jane St, York, ON M9N 2T5, Canada",-79.50595899999999,43.709503
+"1896 Eglinton Ave E , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,,"1896 Eglinton Ave E, Scarborough, ON M1L 2L9, Canada",-79.2968635,43.7263483
+"197 Bellamy Rd N , Toronto - East, Ontario",Esso,115.9,126.9,132.9,114.9,"197 Bellamy Rd N, Scarborough, ON M1J 2L3, Canada",-79.2304686,43.7462881
+"1974 Avenue Rd , Toronto - Central, Ontario",Shell,122.9,,,,"1974 Avenue Rd, Toronto, ON M4V, Canada",-79.4009739,43.6850142
+"1977 Kennedy Rd , Toronto - East, Ontario",Petro-Canada,122.9,,,,"1977 Kennedy Rd, Scarborough, ON M1P 2M1, Canada",-79.282128,43.769821
+"198 Browns Line , Toronto - West, Ontario",Pioneer,117.9,134.9,142.9,118.6,"198 Brown's Line, Etobicoke, ON M8W 3T3, Canada",-79.54353449999999,43.5972405
+"1990 Hallstone Rd , Brampton, Ontario",Petro-Canada,122.9,136.9,142.9,118.9,"1990 Hallstone Rd, Brampton, ON L6Y 0L7, Canada",-79.7676023,43.6218869
+"1990 Steeles Ave W , Brampton, Ontario",Esso,122.9,136.9,142.9,118.9,"1990 Steeles Ave W, Brampton, ON L6Y 0R4, Canada",-79.7759232,43.6281873
+"2 East Mall Cr , Toronto - West, Ontario",Petro-Canada,122.9,,,,"2 The East Mall Crescent, Etobicoke, ON M9B 3Y6, Canada",-79.55018799999999,43.630685
+"2 Oakdale Rd , Toronto - North, Ontario",Jiffy,121.9,,,119.3,"2 Oakdale Rd, North York, ON M3N, Canada",-79.5238116,43.7370459
+"2 Salem Rd S , Ajax, Ontario",Petro-Canada,113.6,124.9,132.9,120.9,"2 Salem Rd S, Ajax, ON L1S 7T7, Canada",-79.0165536,43.8628559
+"2 Upton Rd , Toronto - East, Ontario",Esso,121.9,127.9,136.9,118.9,"2 Upton Rd, Scarborough, ON M1L 2B8, Canada",-79.28361869999999,43.7182428
+"2 Vaughan Valley Blvd , Vaughan, Ontario",Shell,122.9,135.9,,118.9,"2 Vaughan Valley Blvd, Vaughan, ON l4k 3c4, Canada",-79.6263638,43.772427
+"2 Westney Rd S , Ajax, Ontario",Shell,122.9,126.9,134.9,,"2 Westney Rd S, Ajax, ON L1S 5L7, Canada",-79.0422461,43.8570505
+"20 Bristol Rd W , Mississauga, Ontario",Petro-Canada,117.9,130.9,136.9,120.9,"20 Bristol Rd W, Mississauga, ON L5R 3K3, Canada",-79.66360829999999,43.61373589999999
+"20 Ellesmere Rd , Toronto - East, Ontario",Petro-Canada,122.9,,,,"20 Ellesmere Rd, Scarborough, ON M1R 4C1, Canada",-79.3147352,43.7583265
+"200 Sandalwood Pkwy E , Brampton, Ontario",Petro-Canada,118.5,131.9,137.9,,"200 Sandalwood Pkwy E, Brampton, ON L6Z 1Y5, Canada",-79.79401589999999,43.7280297
+"2001 North Park Dr , Brampton, Ontario",Shell,119.6,132.9,140.9,,"2001 N Park Dr, Brampton, ON L6S 5Z9, Canada",-79.7266849,43.74855549999999
+"201 Taunton Rd W , Ajax, Ontario",Petro-Canada,122.9,129.9,139.9,118.9,"201 Taunton Rd W, Ajax, ON L1T 4W9, Canada",-79.0510145,43.8925916
+"2010 Dundas St W , Toronto - South, Ontario",Shell,117.9,129.9,136.9,122.9,"2010 Dundas St W, Toronto, ON M6R 1W6, Canada",-79.4462271,43.6519243
+"2012 Jane St , Toronto - Central, Ontario",Petro-Canada,122.9,,,,"123 Queen St W, Toronto, ON M5H 3M9, Canada",-79.3842596,43.6511726
+"2025 Kipling Ave , Toronto - West, Ontario",Canadian Tire,120.9,,,,"2025 Kipling Ave, Etobicoke, ON M9W 4J8, Canada",-79.56606579999999,43.7125981
+"2044 Kipling Ave , Toronto - West, Ontario",Pioneer,120.7,,,118.4,"2044 Kipling Ave, Etobicoke, ON M9W, Canada",-79.5676788,43.7138015
+"2067 Rutherford Rd , Vaughan, Ontario",7-Eleven,119.3,124.9,131.9,,"2067 Rutherford Rd, Concord, ON L4K 5T6, Canada",-79.50261700000001,43.837777
+"21 Innovation Dr , Vaughan, Ontario",Petro-Canada,,131.9,137.9,119.9,"21 Innovation Dr, Vaughan, ON L0J, Canada",-79.6259335,43.7879827
+"2100 Burnhamthorpe Rd W , Mississauga, Ontario",Petro-Canada,118.9,132.9,138.9,,"2100 Burnhamthorpe Rd W, Mississauga, ON L5L 3N1, Canada",-79.6823548,43.5465124
+"211 Bayly St E , Ajax, Ontario",Esso,113.6,128.9,138.9,119.9,"211 Bayly St E, Ajax, ON L1S 7T6, Canada",-79.0067124,43.8465598
+"2125 Dundas St W , Mississauga, Ontario",Petro-Canada,120.7,133.9,139.9,120.9,"2125 Dundas St W, Mississauga, ON L5K 2E2, Canada",-79.6683268,43.5355429
+"2125 Sheppard Ave E , Toronto - North, Ontario",Petro-Canada,122.9,134.9,140.9,122.9,"2125 Sheppard Ave E, North York, ON M2J 4X5, Canada",-79.3325862,43.7752741
+"2145 Dundas St W , Toronto - South, Ontario",Lambert's Pump,116.9,123.9,132.9,125.9,"2145 Dundas St W, Toronto, ON M6R 1X2, Canada",-79.4498869,43.6526892
+"2163 Dundas St E , Mississauga, Ontario",Shell,116.9,129.9,137.9,118.9,"2163 Dundas St E, Mississauga, ON L4X 1M3, Canada",-79.56706419999999,43.6257724
+"2165 Erin Mills Pkwy , Mississauga, Ontario",Shell,118.9,128.9,136.9,,"2165 Erin Mills Pkwy, Mississauga, ON L5K 1T7, Canada",-79.6516405,43.52763239999999
+"2182 Queen St E , Brampton, Ontario",Husky,119.6,129.9,136.9,,"2182 Queen St E, Brampton, ON L6S 4G9, Canada",-79.7131825,43.7284364
+"2185 Leanne Blvd , Mississauga, Ontario",Esso,118.9,128.9,134.9,119.9,"2185 Leanne Blvd, Mississauga, ON L5K 2L6, Canada",-79.65261020000001,43.52695000000001
+"2189 Lake Shore Blvd W , Toronto - West, Ontario",Esso,122.9,135.9,141.9,,"2189 Lake Shore Blvd W, Etobicoke, ON M8V 1A1, Canada",-79.4805607,43.6231352
+"22 Bridge St , Bradford West Gwillimbury, Ontario",Pioneer,,,,118.3,"22 Bridge St, Bradford, ON L3Z 3H2, Canada",-79.55659709999999,44.1157864
+"2200 Credit Valley Rd , Mississauga, Ontario",Petro-Canada,118.9,132.9,138.9,,"2200 Credit Valley Rd, Mississauga, ON L5M 3C9, Canada",-79.7011924,43.5566887
+"2200 Steeles Ave W , Toronto - North, Ontario",Husky,121.9,,,113.7,"2200 Steeles Ave W, Concord, ON L4K 2Y7, Canada",-79.49397809999999,43.78209589999999
+"2205 Jane St , Toronto - North, Ontario",Petro-Canada,122.9,136.9,142.9,117.9,"2205 Jane St, North York, ON M3M 1A5, Canada",-79.5084996,43.7226988
+"2210 Stouffville Rd , Whitchurch-Stouffville, Ontario",Husky,121.6,,,,"2210 Stouffville Rd, Whitchurch-Stouffville, ON L0H, Canada",-79.3800416,43.94261729999999
+"225 Salem Rd S , Ajax, Ontario",Petro-Canada,122.9,126.9,132.9,120.9,"225 Salem Rd S, Ajax, ON L1Z 0B1, Canada",-79.0084832,43.8531418
+"2250 Hwy 7 , Pickering, Ontario",Esso,,,,121.9,"2250 ON-7, Greenwood, ON L0H 1H0, Canada",-79.0780947,43.9261661
+"2250 Victoria Park Ave , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,,"2250 Victoria Park Ave, North York, ON M1R, Canada",-79.31813319999999,43.76323860000001
+"2265 Danforth Ave , Toronto - Central, Ontario",Petro-Canada,122.9,132.9,138.9,,"2265 Danforth Ave, Toronto, ON M4C 1K1, Canada",-79.3123632,43.6857948
+"2267 Lakeshore Rd W , Oakville, Ontario",7-Eleven,,127.6,134.6,,"2267 Lakeshore Rd W, Oakville, ON L6L 1H1, Canada",-79.7069015,43.3993703
+"2268 Rutherford Rd  , Vaughan, Ontario",Ultramar,119.4,133.6,134.8,116.9,"2268 Rutherford Rd, Concord, ON L4K 2N8, Canada",-79.5087052,43.8366961
+"2285 Benedet Dr , Mississauga, Ontario",Petro Split Serve,118.9,124.9,131.9,119.9,"2285 Benedet Dr, Mississauga, ON L5J 4J8, Canada",-79.6553599,43.5163294
+"2291 Islington Ave , Toronto - West, Ontario",Esso,122.9,,,,"2291 Islington Ave, Etobicoke, ON M9W, Canada",-79.55511419999999,43.715929
+"230 Lloyd Manor Rd , Toronto - West, Ontario",Shell,122.9,,,119.9,"230 Lloyd Manor Rd, Etobicoke, ON M9B 5K7, Canada",-79.55783579999999,43.6752322
+"230 Wanless Dr , Brampton, Ontario",Mac's,116.2,134.2,141.2,114.9,"230 Wanless Dr, Brampton, ON L7A 3K4, Canada",-79.8155221,43.7256685
+"2300 Royal Windsor Dr , Oakville, Ontario",Petro-Canada,122.9,,,,"2300 Royal Windsor Dr, Oakville, ON L6J 7Y1, Canada",-79.65205979999999,43.489626
+"2314 Kingston Rd , Toronto - East, Ontario",Jim's Gas,119.9,,136.9,118.9,"2314 Kingston Rd, Scarborough, ON M1N 1T9, Canada",-79.25173819999999,43.7062659
+"2316 Finch Ave W , Toronto - North, Ontario",Ultramar,120.9,,,,"2316 Finch Ave W, Toronto, ON M9M, Canada",-79.5421313,43.7524536
+"2317 St Clair Ave W , Toronto - Central, Ontario",Pioneer,116.4,124.0,131.5,117.9,"2317 St Clair Ave W, Toronto, ON M6E 1B8, Canada",-79.447873,43.6766696
+"2320 Lawrence Ave E , Toronto - East, Ontario",Petro-Canada,122.9,,,,"2320 Lawrence Ave E, Scarborough, ON M1P 2P9, Canada",-79.2755504,43.7498229
+"2329 Stouffville Rd , Whitchurch-Stouffville, Ontario",Petro-Canada,121.6,,,,"2329 Stouffville Rd, Gormley, ON L0H 1G0, Canada",-79.3786977,43.9416068
+"2330 Battleford Rd , Mississauga, Ontario",7-Eleven,117.6,,,,"2330 Battleford Rd, Mississauga, ON L5N 3K6, Canada",-79.740741,43.585512
+"2370 Lawrence Ave E , Toronto - East, Ontario",Esso,122.9,125.9,131.5,,"2370 Lawrence Ave E, Scarborough, ON M1P 2R5, Canada",-79.2744306,43.7500477
+"2372 Eglinton Ave E , Toronto - East, Ontario",Eagle,117.9,126.9,135.9,,"2372 Eglinton Ave E, Scarborough, ON M1K 2P3, Canada",-79.271141,43.7318851
+"2383 Dundas St W , Oakville, Ontario",Econo,118.9,128.9,133.9,117.9,"2383 Dundas St W, Oakville, ON L6M 4J3, Canada",-79.77232769999999,43.44014990000001
+"241 Church St , Toronto - South, Ontario",Esso,122.9,135.9,141.9,,"241 Church St, Toronto, ON M5B 1Z4, Canada",-79.3768546,43.6567305
+"2424 Eglinton Ave E , Toronto - East, Ontario",Shell,122.9,,,,"2424 Eglinton Ave E, Toronto, ON M1K 2P3, Canada",-79.2685297,43.732508
+"2435 Finch Ave W , Toronto - North, Ontario",Shell,122.9,,,,"2435 Finch Ave W, North York, ON M9M 2E6, Canada",-79.54930490000001,43.7503022
+"2439 Steeles Ave E , Brampton, Ontario",Circle K,119.7,131.7,138.7,111.9,"2439 Steeles Ave E, Brampton, ON L6T 5J9, Canada",-79.67996610000002,43.7135032
+"2460 St Clair Ave W , Toronto - Central, Ontario",Petro-Canada,122.9,,,,"2460 St Clair Ave W, Toronto, ON M6E 1C1, Canada",-79.4481338,43.6770561
+"2485 Bloor St W , Toronto - Central, Ontario",Esso,122.9,135.9,141.9,,"2485 Bloor St W, Toronto, ON M6P 3L4, Canada",-79.4477466,43.6571596
+"2495 Kingston Rd  , Toronto - East, Ontario",Mid King,119.7,,136.7,,"2495 Kingston Rd, Scarborough, ON M1N 1V4, Canada",-79.2482297,43.7104411
+"2498 Gerrard St E , Toronto - East, Ontario",Shell,122.9,135.9,142.9,118.9,"2498 Gerrard St E, Toronto, ON M1N, Canada",-79.2838548,43.6880225
+"25 Photography Dr , Toronto - West, Ontario",No Frills,116.4,123.4,130.4,117.9,"25 Photography Dr, North York, ON M6M 0A1, Canada",-79.4839293,43.686812
+"250 Mulock Dr , Newmarket, Ontario",Petro-Canada,120.3,,,,"250 Mulock Dr, Newmarket, ON L3Y 9B8, Canada",-79.4645123,44.0385384
+"250 The Queensway , Toronto - West, Ontario",Esso,122.9,134.9,140.9,119.9,"250 The Queensway, Etobicoke, ON M8Y 1J4, Canada",-79.4873214,43.6299563
+"2500 Don Mills Rd , Toronto - North, Ontario",Esso,122.9,,,,"2500 Don Mills Rd, North York, ON M2J 3B3, Canada",-79.3478394,43.7754422
+"2500 Sheppard Ave E , Toronto - East, Ontario",Petro-Canada,122.9,,,,"2500 Sheppard Ave E, North York, ON M2J, Canada",-79.3246135,43.7748824
+"2520 Britannia Rd W , Mississauga, Ontario",Esso,117.9,130.9,136.9,,"2520 Britannia Rd W, Mississauga, ON L5M 5X7, Canada",-79.73317709999999,43.5777971
+"2525 Thomas St , Mississauga, Ontario",Shell,119.9,,,,"2525 Thomas St, Mississauga, ON L5M 5J3, Canada",-79.7236171,43.5698127
+"253 Kennedy Rd S , Brampton, Ontario",Husky,122.3,133.9,139.9,117.7,"253 Kennedy Rd S, Brampton, ON L6W 3H1, Canada",-79.72813599999999,43.679167
+"2549 Weston Rd , Toronto - Central, Ontario",Superstore,122.6,130.6,137.6,116.6,"2549 Weston Rd, Toronto, ON M9N 2A7, Canada",-79.5338021,43.71021040000001
+"255 E Beaver Creek Rd , Richmond Hill, Ontario",Esso,122.9,135.9,141.9,118.9,"255 East Beaver Creek Rd, Richmond Hill, ON L4B 1M7, Canada",-79.37854,43.84569399999999
+"2580 St Clair Ave W , Toronto - Central, Ontario",Race Trac,116.9,,,,"2580 St Clair Ave W, Toronto, ON M6E 1C1, Canada",-79.4481338,43.6770561
+"26 Queen St N , Mississauga, Ontario",Petro-Canada,121.9,,141.9,,"26 Queen St N, Mississauga, ON L5N 1A1, Canada",-79.7239603,43.5887772
+"260 Vaughan Rd , Toronto - Central, Ontario",Econo Gas Station,116.9,,,,"260 Vaughan Rd, Toronto, ON M6C, Canada",-79.42603609999999,43.6884187
+"2601 Eglinton Ave E , Toronto - East, Ontario",Canadian Tire,117.9,132.9,137.9,116.9,"2601 Eglinton Ave E, Scarborough, ON M1K 2S1, Canada",-79.253496,43.73525
+"261 Dixon Rd  , Toronto - West, Ontario",Esso,122.9,134.9,144.9,,"261 Dixon Rd, Etobicoke, ON M9P 2M4, Canada",-79.54607360000001,43.69684729999999
+"2610 Eglinton Ave E , Toronto - East, Ontario",Ultramar,117.9,129.9,132.9,116.9,"2610 Eglinton Ave E, Scarborough, ON M1K, Canada",-79.25204719999999,43.7358637
+"2611 Lawrence Ave E , Toronto - East, Ontario",Esso,122.9,134.9,140.9,,"2611 Lawrence Ave E, Scarborough, ON M1P 2S2, Canada",-79.2645201,43.7512886
+"2645 Fifth Line W , Mississauga, Ontario",Petro-Canada,120.7,133.9,139.9,,"2645 Fifth Line W, Mississauga, ON L5K 1V9, Canada",-79.6669903,43.535667
+"2645 Steeles Ave E , Brampton, Ontario",Esso,120.9,133.9,139.9,,"2645 Steeles Ave E, Brampton, ON L6T, Canada",-79.6683496,43.72377789999999
+"2645 Steeles Ave W  , Toronto - North, Ontario",Husky,121.9,,,,"2645 Steeles Ave W, North York, ON M3J 2S4, Canada",-79.48647,43.78316299999999
+"2650 Rutherford Rd , Vaughan, Ontario",Shell,119.9,133.9,141.9,119.9,"2650 Rutherford Rd, Vaughan, ON L4K 2N9, Canada",-79.5217164,43.8339862
+"2651 Rutherford Rd , Vaughan, Ontario",Petro-Canada,119.9,130.9,136.9,120.9,"2651 Rutherford Rd, Vaughan, ON L4K, Canada",-79.5229451,43.8327009
+"2660 Major Mackenzie Dr W , Vaughan, Ontario",Mac's,120.5,132.5,139.5,117.9,"2660 Major MacKenzie Dr W, Maple, ON L6A 1C1, Canada",-79.52677210000002,43.8523432
+"2669 Jane St , Toronto - North, Ontario",Esso,121.9,134.9,140.9,,"2669 Jane St, North York, ON M3L 1S3, Canada",-79.512,43.7400209
+"2688 Dundas St W , Mississauga, Ontario",Esso,118.9,130.7,136.7,114.9,"2688 Dundas St W, Mississauga, ON L5K 1S1, Canada",-79.6809719,43.5227188
+"2695 Credit Valley Rd , Mississauga, Ontario",Shell,118.9,131.9,139.9,,"2695 Credit Valley Rd, Mississauga, ON L5M 4S1, Canada",-79.714411,43.5472988
+"2699 Keele St , Toronto - North, Ontario",Canadian Tire,122.9,,137.9,119.8,"2699 Keele St, North York, ON M3M 2E9, Canada",-79.48172749999999,43.7256003
+"274 Steeles Ave E , Toronto - North, Ontario",Petro-Canada,122.9,135.9,141.9,119.9,"274 Steeles Ave E, Thornhill, ON L3T 1A7, Canada",-79.3957812,43.8037658
+"2747 Keele St , Toronto - North, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"2747 Keele St, North York, ON M3M 2E9, Canada",-79.4815509,43.7263576
+"2757 Hwy 7 W , Vaughan, Ontario",Husky,119.8,,,112.7,"2757 Hwy 7, Vaughan, ON L4K, Canada",-79.5159419,43.7957235
+"278 Old Kingston Rd , Toronto - East, Ontario",Tru Value,113.9,,125.9,,"278 Old Kingston Rd, Scarborough, ON M1C 1B5, Canada",-79.1723212,43.7826538
+"2799 Lake Shore Blvd W , Toronto - West, Ontario",Shell,122.9,137.9,145.9,,"2799 Lake Shore Blvd W, Etobicoke, ON M8V 1H4, Canada",-79.5006317,43.6016099
+"280 Scarlett Rd , Toronto - West, Ontario",Esso,122.9,,,,"280 Scarlett Rd, Etobicoke, ON M9A 4S4, Canada",-79.50936709999999,43.6808532
+"2800 Kennedy Rd , Toronto - East, Ontario",Petro-Canada,122.9,134.9,140.9,121.9,"2800 Kennedy Rd, Scarborough, ON M1T 3J2, Canada",-79.2967389,43.800817
+"2801 Elgin Mills Rd E , Markham, Ontario",Esso,122.9,135.9,141.9,118.9,"2801 Elgin Mills Rd E, Markham, ON L6C 1K8, Canada",-79.3783523,43.9020822
+"2805 Eglinton Ave W , Mississauga, Ontario",Loblaws,118.6,127.6,134.6,114.6,"1326 Eglinton Ave W, Mississauga, ON L5M 6J3, Canada",-79.7128844,43.5537908
+"281 Richvale Dr S , Brampton, Ontario",Esso,116.5,129.9,135.9,119.9,"281 Richvale Dr S, Brampton, ON L6Z 4W5, Canada",-79.7729736,43.7197105
+"2810 Markham Rd , Toronto - East, Ontario",Amco,119.6,131.9,136.9,117.6,"2810 Markham Rd, Scarborough, ON M1X, Canada",-79.247795,43.8229452
+"2821 Weston Rd , Toronto - North, Ontario",Petro-Canada,122.9,,,,"2821 Weston Rd, North York, ON M9M 2R8, Canada",-79.53749599999999,43.720106
+"2830 16th Ave , Markham, Ontario",Petro-Canada,122.9,135.9,141.9,118.9,"2830 16th Ave, Markham, ON L3R 0K8, Canada",-79.369674,43.8670651
+"2831 Bayview Ave , Toronto - North, Ontario",Shell,122.9,134.4,140.4,119.9,"2831 Bayview Ave, North York, ON M2K 1E5, Canada",-79.3875585,43.7662391
+"285 Lawson Rd , Toronto - East, Ontario",Amco,116.9,,133.9,,"285 Lawson Rd, Scarborough, ON M1C 2J6, Canada",-79.1515541,43.7870445
+"2863 Dufferin St , Toronto - Central, Ontario",Petro-Canada,122.9,134.9,140.9,,"2863 Dufferin St, York, ON M6E 3R9, Canada",-79.4477795,43.690298
+"2875 Eglinton Ave E , Toronto - East, Ontario",Esso,117.9,126.6,132.6,115.9,"2875 Eglinton Ave E, Scarborough, ON M1J, Canada",-79.24045939999999,43.7383827
+"288 Rexdale Blvd , Toronto - West, Ontario",Petro-Canada,120.3,,,,"288 Rexdale Blvd, Etobicoke, ON M9W 1R6, Canada",-79.5818685,43.7143985
+"2881 Keele St , Toronto - North, Ontario",Pioneer,121.4,130.9,138.4,115.6,"2881 Keele St, North York, ON M3M 2G9, Canada",-79.48337339999999,43.7334443
+"2881 Major Mackenzie Dr E , Markham, Ontario",Shell,122.9,136.9,144.9,118.9,"2881 Major Mackenzie Dr E, Markham, ON L6C, Canada",-79.3723736,43.8843851
+"290 Rossland Rd E , Ajax, Ontario",Esso,,126.9,132.9,118.9,"290 Rossland Rd E, Ajax, ON L1Z 0K4, Canada",-79.019485,43.8821302
+"2900 Finch Ave E , Toronto - East, Ontario",Petro-Canada,122.9,134.9,140.9,119.9,"2900 Finch Ave E, Scarborough, ON M1W 2T4, Canada",-79.3309,43.793777
+"2900 Steeles Ave E , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"2900 Steeles Ave E, Thornhill, ON L3T 4X1, Canada",-79.3583158,43.8126877
+"2908 Yonge St , Toronto - Central, Ontario",Petro-Canada,127.9,,,,"2908 Yonge St, Toronto, ON M4S, Canada",-79.3968663,43.6978414
+"2915 St Clair Ave E , Toronto - Central, Ontario",Esso,122.9,134.9,140.9,119.9,"2915 ST. CLAIR AVE E, TORONTO, ON M4J 3V5, Canada",-79.3003568,43.7079583
+"292 Kingston Rd , Toronto - South, Ontario",Petro-Canada,120.9,,,,"292 Kingston Rd, Toronto, ON M4L 1T7, Canada",-79.3077574,43.6743459
+"2956 Queen St E , Brampton, Ontario",Ultramar,119.6,132.6,135.6,111.9,"2956 Queen St E, Brampton, ON L6S 5Y1, Canada",-79.6974807,43.7429977
+"2963 Queen St E , Brampton, Ontario",Esso,119.6,135.9,141.9,111.9,"2963 Queen St E, Brampton, ON L6T 5J1, Canada",-79.6959814,43.7427128
+"2969 Sherwood Heights Dr , Oakville, Ontario",Petro-Canada,122.9,,,,"2969 Sherwood Heights Dr, Oakville, ON L6J 7N4, Canada",-79.6621146,43.5071796
+"2980 Argentia Rd , Mississauga, Ontario",Esso,122.9,132.9,138.9,118.9,"2980 Argentia Rd, Mississauga, ON L5N 8C5, Canada",-79.7831514,43.5974137
+"2985 Sandalwood Pkwy E , Brampton, Ontario",Petro-Canada,119.6,,,,"2985 Sandalwood Pkwy E, Brampton, ON L6R 3J6, Canada",-79.73062999999999,43.7684053
+"2990 Britannia Rd W , Mississauga, Ontario",Petro-Canada,118.9,,,,"2990 Britannia Rd W, Mississauga, ON L5M 5P3, Canada",-79.7434607,43.568723
+"30 Laird Dr , Toronto - Central, Ontario",Husky,,,,118.7,"30 Laird Dr, Toronto, ON M4G3T2, Canada",-79.3611076,43.7036484
+"3000 Major Mackenzie Dr W , Vaughan, Ontario",Shell,121.5,135.9,,118.9,"3000 Major MacKenzie Dr W, Maple, ON L6A 3Z5, Canada",-79.5360661,43.8500172
+"3010 16th Ave , Markham, Ontario",Esso,122.9,133.9,139.9,118.9,"3010 16th Ave, Markham, ON L6C 0G5, Canada",-79.3622113,43.868424
+"3011 Wolfedale Rd , Mississauga, Ontario",Petro-Canada,122.9,,,,"3011 Wolfedale Rd, Mississauga, ON L5C 1V8, Canada",-79.63640149999999,43.5637862
+"3015 Thomas St , Mississauga, Ontario",Pioneer,119.3,124.8,132.3,114.6,"3015 Thomas St, Mississauga, ON L5M 0R4, Canada",-79.73470809999999,43.5607037
+"3020 Mavis Rd , Mississauga, Ontario",Canadian Tire,119.9,,,119.3,"3020 Mavis Rd, Mississauga, ON L5C 1T8, Canada",-79.633687,43.566
+"3020 Unity Dr , Mississauga, Ontario",Shell,119.9,131.9,139.9,119.9,"3020 Unity Dr, Mississauga, ON L5L 4X5, Canada",-79.7051783,43.539076
+"3030 Artesian Dr , Mississauga, Ontario",Petro-Canada,118.9,131.9,137.9,120.9,"3030 Artesian Dr, Mississauga, ON L5M 7P5, Canada",-79.7145558,43.5462225
+"305 Dundas St E , Oakville, Ontario",Esso,122.9,,,,"305 Dundas St E, Oakville, ON L6H 7C3, Canada",-79.7202243,43.4876955
+"305 Rexdale Blvd , Toronto - West, Ontario",Esso,119.9,,,119.9,"305 Rexdale Blvd, Etobicoke, ON M9W 1R8, Canada",-79.5825523,43.7135162
+"3051 Lawrence Ave E  , Toronto - East, Ontario",Shell,122.9,,,118.9,"3051 Lawrence Ave E, Scarborough, ON M1P 2V8, Canada",-79.2457676,43.7550787
+"3069 Bathurst St , Toronto - Central, Ontario",Esso,122.9,133.9,139.9,119.9,"3069 Bathurst St, York, ON M5P 3L1, Canada",-79.42511929999999,43.700505
+"3070 Dufferin St , Toronto - Central, Ontario",Shell,122.9,136.9,144.9,119.9,"3070 Dufferin St, York, ON M6E 3R8, Canada",-79.4480561,43.6903748
+"3075 Bathurst St , Toronto - Central, Ontario",Shell,122.9,129.9,132.9,,"3075 Bathurst St, York, ON M5P 3L1, Canada",-79.42511929999999,43.700505
+"3075 Danforth Ave , Toronto - East, Ontario",Esso,113.9,135.9,141.9,,"3075 Danforth Ave, Scarborough, ON M1L 1A8, Canada",-79.28830289999999,43.6912508
+"3075 Don Mills Rd , Toronto - North, Ontario",Petro-Canada,122.9,,,,"3075 Don Mills Rd, North York, ON M2J, Canada",-79.3530959,43.7877728
+"3100 Ellesmere Rd , Toronto - East, Ontario",Petro-Canada,118.9,132.9,138.9,119.9,"3100 Ellesmere Rd, Scarborough, ON M1E, Canada",-79.19490069999999,43.7849762
+"3100 Major Mackenzie Dr W , Vaughan, Ontario",Esso,121.5,134.9,,,"3100 Major MacKenzie Dr W, Vaughan, ON L6A, Canada",-79.53727649999999,43.8499025
+"3100 Winston Churchill Blvd , Mississauga, Ontario",Pioneer,116.7,129.2,136.7,114.6,"3100 Winston Churchill Blvd, Mississauga, ON L5L 1P5, Canada",-79.6849311,43.5245531
+"3101 Victoria Park Ave , Toronto - East, Ontario",Shell,122.9,,,,"3101 Victoria Park Ave, Toronto, ON M1W 2T3, Canada",-79.3307473,43.7928046
+"3143 Winston Churchill Blvd , Mississauga, Ontario",Canadian Tire,119.9,129.9,134.9,114.8,"3143 Winston Churchill Blvd, Mississauga, ON L5L 2W1, Canada",-79.6847442,43.5256881
+"3171 Derry Rd E , Mississauga, Ontario",Petroleum Plus,122.3,124.9,135.9,116.9,"3171 Derry Rd E, Mississauga, ON L4T 1A8, Canada",-79.6392587,43.70766829999999
+"3180 Danforth Ave , Toronto - East, Ontario",Star Gas,114.0,,122.9,,"3180 Danforth Ave, Scarborough, ON M1L 1B4, Canada",-79.2840775,43.6921749
+"3191 Rutherford Rd , Vaughan, Ontario",Husky,119.8,131.9,138.9,113.7,"3191 Rutherford Rd, Concord, ON L4K 0A3, Canada",-79.5382566,43.8292413
+"3200 Rutherford Rd , Vaughan, Ontario",Canadian Tire,120.6,131.6,,115.9,"3200 Rutherford Rd, Vaughan, ON L4K, Canada",-79.5378017,43.8304011
+"3220 Kingston Rd , Toronto - East, Ontario",Ultramar,117.9,129.6,132.6,116.9,"3220 Kingston Rd, Scarborough, ON M1M 1P4, Canada",-79.22656719999999,43.7310401
+"3221 Kingston Rd , Toronto - East, Ontario",Shell,117.9,136.9,144.9,,"3221 Kingston Rd, Scarborough, ON M1M 1P7, Canada",-79.22575619999999,43.7305228
+"3233 Erin Mills Pkwy , Mississauga, Ontario",Mi Fuel,116.9,124.9,132.9,117.9,"3233 Erin Mills Pkwy, Mississauga, ON L5L 1R1, Canada",-79.67302389999999,43.541262
+"325 Dundas St E , Oakville, Ontario",Shell,122.9,135.9,143.9,118.9,"325 Dundas St E, Oakville, ON L6H 7E3, Canada",-79.71959009999999,43.4885008
+"325 Horner Ave , Toronto - West, Ontario",XTR,119.7,,,119.7,"325 Horner Ave, Etobicoke, ON M8W 1Z5, Canada",-79.52783459999999,43.60525690000001
+"3255 Dundas St W , Mississauga, Ontario",Shell,118.9,132.9,140.9,118.9,"3255 Dundas St W, Mississauga, ON L5L 5V7, Canada",-79.6880539,43.5175294
+"3279 Kingston Rd , Toronto - East, Ontario",Pioneer,117.9,124.3,131.8,114.9,"3279 Kingston Rd, Scarborough, ON M1M 1P7, Canada",-79.2247445,43.7313824
+"330 Queen's Plate Dr , Toronto - West, Ontario",Refuel,120.9,126.5,133.5,107.6,"330 Queens Plate Dr, Etobicoke, ON M9W 7J7, Canada",-79.5962916,43.7214387
+"3304 Lawrence Ave E , Toronto - East, Ontario",Petro-Canada,119.9,132.9,138.9,,"3304 Lawrence Ave E, Scarborough, ON M1H, Canada",-79.2352954,43.7577895
+"331 Sammon Ave , Toronto - Central, Ontario",Global,117.9,,,,"331 Sammon Ave, Toronto, ON M4J 2X8, Canada",-79.334344,43.686801
+"3321 Dufferin St , Toronto - Central, Ontario",Esso,122.9,132.9,139.9,,"3321 Dufferin St, York, ON M6E 3R9, Canada",-79.4477795,43.690298
+"3350 Steeles Ave W , Vaughan, Ontario",Esso,118.9,131.9,137.9,116.9,"3350 Steeles Ave W, Concord, ON L4K 1A2, Canada",-79.5308935,43.7735845
+"3351 Bayview Ave  , Toronto - North, Ontario",Petro-Canada,122.9,134.9,140.9,119.9,"3351 Bayview Ave, North York, ON M2K 1G5, Canada",-79.3931884,43.7927981
+"3360 Sheppard Ave E , Toronto - East, Ontario",Esso,122.9,,,,"3360 Sheppard Ave E, Scarborough, ON M1T, Canada",-79.3078915,43.7787396
+"3380 Dixie Rd , Mississauga, Ontario",Petro-Canada,121.7,134.9,140.9,119.9,"3380 Dixie Rd, Mississauga, ON L4Y 2A8, Canada",-79.59458,43.6163049
+"3381 Kennedy Rd , Toronto - East, Ontario",Shell,122.9,135.9,143.9,,"3381 Kennedy Rd, Toronto, ON M1V 4Y1, Canada",-79.3040307,43.8182007
+"340 Kingston Rd , Pickering, Ontario",Petro Queen,118.9,,,,"340 Kingston Rd, Pickering, ON L1V 1A2, Canada",-79.13058199999999,43.809205
+"3400 Sheppard Ave E , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,121.9,"3400 Sheppard Ave E, Scarborough, ON M1T 3K4, Canada",-79.30750599999999,43.779347
+"3400 Victoria Park Ave , Toronto - East, Ontario",Esso,122.9,132.9,138.9,,"3400 Victoria Park Ave, Scarborough, ON M1W 2J6, Canada",-79.33707629999999,43.8042421
+"3401 Sheppard  Ave E , Toronto - East, Ontario",Shell,122.9,,,,"3401 Sheppard Ave E, Scarborough, ON M1T 3K5, Canada",-79.3071473,43.778616
+"3405 Dixie Rd , Mississauga, Ontario",Husky,120.9,,,118.7,"3405 Dixie Rd, Mississauga, ON L4Y 2A9, Canada",-79.59463900000002,43.617272
+"3405 Glen Erin Dr , Mississauga, Ontario",Esso,118.9,128.9,137.9,120.9,"3405 Glen Erin Dr, Mississauga, ON L5L 3S2, Canada",-79.6851202,43.5365482
+"3411 Mavis Rd , Mississauga, Ontario",Pioneer,119.6,129.1,136.6,118.6,"3411 Mavis Rd, Mississauga, ON L5B 4E8, Canada",-79.6449841,43.5749111
+"3425 Winston Churchill Blvd , Mississauga, Ontario",Petro-Canada,119.9,132.9,138.9,,"3425 Winston Churchill Blvd, Mississauga, ON L5L 3R5, Canada",-79.6927151,43.5313652
+"3445 Hurontario St , Mississauga, Ontario",Esso,119.9,,,,"3445 Hurontario St, Mississauga, ON L5A 2H4, Canada",-79.628053,43.5892865
+"345 Speers Rd , Oakville, Ontario",Esso,122.9,135.9,141.9,119.9,"345 Speers Rd, Oakville, ON L6K 3S5, Canada",-79.6933398,43.4414525
+"345A Queen St W , Brampton, Ontario",Husky,122.7,133.9,140.9,118.7,"345A Queen St W, Brampton, ON L6Y 3B2, Canada",-79.76995959999999,43.6760271
+"3466 Dundas St W , Toronto - Central, Ontario",Petro V Plus,116.4,126.2,133.4,117.9,"3466 Dundas St W, Toronto, ON M6R 1W9, Canada",-79.44799499999999,43.6522602
+"3479 Simcoe Rd 88 , Bradford West Gwillimbury, Ontario",Husky,,,,116.9,"3479 Simcoe County Rd 88, Bradford, ON L3Z 2A5, Canada",-79.6249399,44.1008158
+"35 Cherrycrest Dr , Brampton, Ontario",Esso,122.9,128.9,138.9,118.9,"35 Cherrycrest Drive, Brampton, ON L6P 0S2, Canada",-79.6698358,43.7636443
+"350 Iroquois Shore Rd , Oakville, Ontario",Petro-Canada,120.8,135.9,141.9,,"350 Iroquois Shore Rd, Oakville, ON L6H 1M4, Canada",-79.6857914,43.4644014
+"354 Dundas St E , Mississauga, Ontario",Shell,122.9,,,119.9,"354 Dundas St E, Mississauga, ON L5A 1X2, Canada",-79.6071194,43.5878448
+"354 Queen St E , Brampton, Ontario",Petro-Canada,119.6,132.9,138.9,120.9,"354 Queen St E, Brampton, ON L6V 1C3, Canada",-79.7415348,43.7035172
+"3550 Queen St E , Brampton, Ontario",Shell,119.6,130.9,138.9,120.9,"3550 Queen St E, Brampton, ON L6P 3L2, Canada",-79.68467749999999,43.7538419
+"3555 Major Mackenzie Dr W , Vaughan, Ontario",Esso,121.5,134.9,,,"3555 Major MacKenzie Dr W, Woodbridge, ON L4H 2Y8, Canada",-79.5531621,43.8452433
+"3561 Danforth Ave , Toronto - East, Ontario",Danforth Gas & Wash,114.9,122.9,129.9,116.9,"3561 Danforth Ave, Scarborough, ON M1L 1E3, Canada",-79.2736997,43.6943633
+"3566 St Clair Ave E , Toronto - East, Ontario",Esso,115.9,125.9,140.9,,"3566 St Clair Ave E, Scarborough, ON M1K 1M2, Canada",-79.2590704,43.717329
+"3587 Bathurst St , Toronto - Central, Ontario",7-Eleven,122.6,,,,"Bathurst St, Toronto, ON, Canada",-79.4052392,43.6503588
+"3600 Sheppard Ave E , Toronto - East, Ontario",Esso,122.9,,,,"3600 Sheppard Ave E, Scarborough, ON M1T 3K8, Canada",-79.29876949999999,43.7812651
+"3615 McNicoll Ave , Toronto - East, Ontario",Pioneer,119.9,,,117.6,"3615 McNicoll Ave, Scarborough, ON M1X 1G4, Canada",-79.2466845,43.8240749
+"3639 Dufferin St , Toronto - North, Ontario",Petro-Canada,123.3,136.9,142.9,120.9,"3639 Dufferin St, North York, ON M3K, Canada",-79.4581929,43.7318469
+"365 Dixon Rd , Toronto - West, Ontario",Petro-Canada,122.9,133.9,138.9,,"365 Dixon Rd, Etobicoke, ON M9R 1S1, Canada",-79.5580463,43.69410939999999
+"3650 Rutherford Rd , Vaughan, Ontario",Esso,119.3,132.9,138.9,,"3650 Rutherford Rd, Concord, ON L4K 5Y6, Canada",-79.552104,43.8272631
+"3660 Dufferin St , Toronto - North, Ontario",Husky,121.9,132.9,139.9,118.7,"3660 Dufferin St, North York, ON M3K 1C9, Canada",-79.45892119999999,43.7322686
+"3680 Hurontario St , Mississauga, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"3680 Hurontario St, Mississauga, ON L5B 1P3, Canada",-79.6352,43.5929425
+"3680 Langstaff Rd , Vaughan, Ontario",Petro-Canada,122.9,135.9,141.9,,"3680 Langstaff Rd, Woodbridge, ON L4L 9A8, Canada",-79.5512557,43.808504
+"3685 Erindale Station Rd , Mississauga, Ontario",Shell,119.9,,,,"3685 Erindale Station Rd, Mississauga, ON L5C 2S9, Canada",-79.6605216,43.5706599
+"3700 Major Mackenzie Dr W , Vaughan, Ontario",Petro-Canada,121.5,134.9,140.9,,"3700 Major MacKenzie Dr W, Maple, ON L6A 1S1, Canada",-79.5574329,43.8456455
+"3700 Steeles Ave E , Toronto - East, Ontario",Petro-Canada,122.9,132.9,138.9,,"3700 Steeles Ave E, Markham, ON L3R 0L9, Canada",-79.3262666,43.819758
+"371 Queen St S , Mississauga, Ontario",Husky,119.7,130.9,137.9,,"371 Queen St S, Mississauga, ON L5M 1M3, Canada",-79.7047757,43.5754739
+"3711 Rutherford Rd , Vaughan, Ontario",7-Eleven,117.6,126.6,133.6,,"3711 Rutherford Rd, Vaughan, ON L4L, Canada",-79.55451699999999,43.8258679
+"3733 Hwy 7 , Vaughan, Ontario",Petro-Canada,117.9,,,,"3733 Hwy 7, Woodbridge, ON L4L 9H4, Canada",-79.5466757,43.7888856
+"3750 Bathurst St , Toronto - North, Ontario",Esso,122.9,,,,"3750 Bathurst St, Toronto, ON M3H, Canada",-79.43406399999999,43.7373062
+"3764 Hwy 7 W , Vaughan, Ontario",Esso,117.9,,,,"3764 Hwy 7, Woodbridge, ON L4L 9C3, Canada",-79.54807989999999,43.78968589999999
+"38 Spadina Ave , Toronto - South, Ontario",Shell,122.9,136.9,144.9,,"38 Spadina Ave, Toronto, ON M5V 2H8, Canada",-79.3948664,43.6441775
+"380 Main St N , Markham, Ontario",Esso,119.9,129.9,135.9,,"380 Main St N, Markham, ON L3P 1Z4, Canada",-79.264298,43.891625
+"3800 Kingston Rd , Toronto - East, Ontario",Esso,122.9,135.9,141.9,,"3800 Kingston Rd, Scarborough, ON M1J 3H6, Canada",-79.2076261,43.7485025
+"381 Mount Pleasant Rd , Toronto - Central, Ontario",Esso,123.9,136.9,142.9,,"381 Mt Pleasant Rd, Toronto, ON M4T 2C9, Canada",-79.385336,43.6953568
+"3815 Victoria Park Ave , Toronto - East, Ontario",Petro-Canada,122.9,133.9,139.9,,"3815 Victoria Park Ave, Scarborough, ON M1W 3Y6, Canada",-79.3383202,43.8103531
+"385 Weston Rd , Toronto - Central, Ontario",Petro-Canada,122.9,,,,"385 Weston Rd, York, ON M6N 3P7, Canada",-79.47542109999999,43.6807804
+"389 Birchmount Rd , Toronto - East, Ontario",Global,123.9,,137.9,121.9,"389 Birchmount Rd, Scarborough, ON M1K 1N3, Canada",-79.2659273,43.7026356
+"3900 Jane St , Toronto - North, Ontario",Petro-Canada,122.9,,,,"3900 Jane St, North York, ON M3N, Canada",-79.5177552,43.75721
+"3905 Sheppard Ave E , Toronto - East, Ontario",Petro-Canada,122.9,,,,"3905 Sheppard Ave E, Scarborough, ON M1T 3L5, Canada",-79.2884971,43.7828921
+"3930 Lawrence Ave E , Toronto - East, Ontario",Ultramar,122.9,,,,"3930 Lawrence Ave E, Scarborough, ON M1G 1R7, Canada",-79.2053351,43.76441080000001
+"3965 Thomas St , Mississauga, Ontario",7-Eleven,119.6,,,,"3965 Thomas St, Mississauga, ON L5M 7B8, Canada",-79.7516852,43.5492984
+"4000 Finch Ave E , Toronto - East, Ontario",Esso,121.9,135.9,141.9,118.9,"4000 Finch Ave E, Scarborough, ON M1S 3T6, Canada",-79.29635669999999,43.8016242
+"4000 Jane St , Toronto - North, Ontario",Esso,122.9,,,,"4000 Jane St, North York, ON M3N 2K2, Canada",-79.5184518,43.7577114
+"4011 Dixie Rd , Mississauga, Ontario",Esso,121.7,134.9,140.9,,"4011 Dixie Rd, Mississauga, ON L4W 1M3, Canada",-79.6025485,43.6230978
+"4021 Yonge St , Toronto - Central, Ontario",Shell,122.9,,,119.9,"Yonge St, Toronto, ON, Canada",-79.380646,43.6557038
+"4029 Brock Rd , Uxbridge, Ontario",Shell,,,,121.9,"4029 Brock Rd, Uxbridge, ON L0C, Canada",-79.1468823,44.04597560000001
+"403 Keele St , Toronto - Central, Ontario",Canadian Tire,118.9,128.9,133.9,114.9,"4700 KEELE ST, Toronto, ON M3J, Canada",-79.4983993,43.7742464
+"408 Dixon Rd , Toronto - West, Ontario",Husky,122.9,129.9,136.9,118.7,"408 Dixon Rd, Etobicoke, ON M9R 1S7, Canada",-79.5583705,43.6947111
+"408 Hwy 7 E , Richmond Hill, Ontario",Shell,122.9,136.9,144.9,,"408 Hwy 7, Richmond Hill, ON L4B 1A9, Canada",-79.3922709,43.8425316
+"4106 Cawthra Rd , Mississauga, Ontario",Petro-Canada,122.9,135.9,141.9,,"4106 Cawthra Rd, Mississauga, ON L4Z 1A1, Canada",-79.6216711,43.6099937
+"412 Dundas St E , Oakville, Ontario",Canadian Tire,122.9,132.9,137.9,,"412 Dundas St E, Oakville, ON L6H 6Z9, Canada",-79.7165545,43.4902232
+"412 Holland St W , Bradford West Gwillimbury, Ontario",Shell,,,,118.9,"412 Holland St W, Bradford West Gwillimbury, ON L3Z 2A4, Canada",-79.5809584,44.1103001
+"4140 Erin Mills Pkwy , Mississauga, Ontario",Petro-Canada,118.9,132.9,138.9,,"4140 Erin Mills Pkwy, Mississauga, ON L5L 2M1, Canada",-79.69092479999999,43.5508084
+"4230 Dundas St W , Toronto - West, Ontario",Petro-Canada,122.9,,,,"4230 Dundas St W, Etobicoke, ON M8X 1Y6, Canada",-79.5127608,43.6601603
+"4235 Hwy 7 , Vaughan, Ontario",Shell,122.9,131.9,,,"4235 Hwy 7, Woodbridge, ON L4L 5X7, Canada",-79.564135,43.78563
+"43 Mountainash Rd , Brampton, Ontario",Esso,119.9,132.9,138.9,119.9,"43 Mountainash Rd, Brampton, ON L6R 1W4, Canada",-79.7303171,43.75847359999999
+"435 Browns Line , Toronto - West, Ontario",Shell,118.2,135.9,143.9,118.9,"435 Brown's Line, Etobicoke, ON M8W 3V1, Canada",-79.5450097,43.6022429
+"436 Kipling Ave , Toronto - West, Ontario",Esso,122.9,133.9,139.9,129.9,"436 Kipling Ave, Etobicoke, ON M8Z 5C9, Canada",-79.5207743,43.6068998
+"4384 Bathurst St , Toronto - North, Ontario",Petro-Canada,122.9,,,,"4384 Bathurst St, North York, ON M3H 3R6, Canada",-79.4388999,43.7551289
+"4400 Dufferin St , Toronto - North, Ontario",Canadian Tire,122.9,,,,"4400 Dufferin St, North York, ON M3H 4K7, Canada",-79.46676459999999,43.7655473
+"4403 Kingston Rd , Toronto - East, Ontario",Amco,116.9,127.9,136.9,118.9,"4403 Kingston Rd, Scarborough, ON M1E 2N2, Canada",-79.1903325,43.76637849999999
+"4418 Kingston Rd , Toronto - East, Ontario",Global,117.9,127.9,136.9,,"4418 Kingston Rd, Scarborough, ON M1E 2N4, Canada",-79.1888242,43.7686068
+"445 Eglinton Ave E , Mississauga, Ontario",Petro-Canada,122.9,134.9,140.9,121.9,"445 Eglinton Ave E, Mississauga, ON L4Z 3L4, Canada",-79.6432368,43.61642579999999
+"449 Carlaw Ave , Toronto - South, Ontario",No Frills,115.9,128.9,130.9,113.9,"449 Carlaw Ave, Toronto, ON M4K 3J1, Canada",-79.3425072,43.6684208
+"4499 Mainway , Burlington, Ontario",Pioneer,,,,118.5,"4499 Mainway, Burlington, ON L7L 7P3, Canada",-79.7820031,43.3872484
+"450 Derry Rd W , Mississauga, Ontario",Petro-Canada,122.9,130.9,,119.9,"450 Derry Rd W, Mississauga, ON L5W, Canada",-79.7160364,43.6368827
+"450 Dundas St E , Oakville, Ontario",Petro-Canada,122.9,135.9,141.9,,"450 Dundas St E, Oakville, ON L6H 7L4, Canada",-79.7156775,43.4907775
+"4515 Hwy 7 W , Vaughan, Ontario",Esso,122.9,,,,"4515 Hwy 7, Woodbridge, ON L4L 1S6, Canada",-79.57353979999999,43.7834823
+"4525 Dundas St , Burlington, Ontario",Petro-Canada,,,,119.9,"4525 Dundas St, Burlington, ON L7M 5B4, Canada",-79.808832,43.4065054
+"453 Wilson Ave , Toronto - North, Ontario",XTR,121.9,,,118.9,"453 Wilson Ave, North York, ON M3H 1T9, Canada",-79.44200169999999,43.7353506
+"4530 Erin Mills Pkwy , Mississauga, Ontario",Esso,118.9,128.9,133.9,,"4530 Erin Mills Pkwy, Mississauga, ON L5M 4L9, Canada",-79.7027651,43.5563885
+"4550 Dufferin St , Toronto - North, Ontario",Esso,122.9,132.9,138.9,117.9,"4550 Dufferin St, North York, ON M3H 5R9, Canada",-79.4673632,43.7683792
+"456 Lakeshore Rd E , Mississauga, Ontario",Petro-Canada,120.3,,,,"456 Lakeshore Rd E, Mississauga, ON L5G 1J1, Canada",-79.570844,43.5650175
+"4575 Steeles Ave E , Toronto - East, Ontario",Petro-Canada,122.9,132.9,,121.9,"4575 Steeles Ave E, Scarborough, ON M1V, Canada",-79.3060982,43.82384769999999
+"460 Bayly St W , Ajax, Ontario",Esso,113.6,128.9,135.9,119.9,"460 Bayly St W, Ajax, ON L1S 1P1, Canada",-79.0349538,43.84087539999999
+"461 Sheppard Ave E , Toronto - North, Ontario",Esso,122.9,134.9,140.9,,"461 Sheppard Ave E, North York, ON M2N 3B3, Canada",-79.3884954,43.76625689999999
+"4630 Yonge St , Toronto - North, Ontario",Petro-Canada,122.9,,,,"4630 Yonge St, North York, ON M2N 5L7, Canada",-79.4099732,43.75732610000001
+"4641 Hwy 7 E , Markham, Ontario",Petro-Canada,122.9,,,,"4641 Hwy 7, Unionville, ON L3R 1M6, Canada",-79.3042024,43.8620968
+"4650 Sheppard Ave E , Toronto - East, Ontario",Canadian Tire,119.6,128.9,133.9,118.5,"4650 Sheppard Ave E, Scarborough, ON M1S 3J7, Canada",-79.25942739999999,43.7900601
+"4660 Kingston Rd , Toronto - East, Ontario",Esso,117.9,127.9,133.9,119.9,"4660 Kingston Rd, Scarborough, ON M1E 2P9, Canada",-79.17575649999999,43.77570559999999
+"4685 Central Pkwy , Mississauga, Ontario",Shell,122.9,134.9,142.9,122.9,"4685 Central Pkwy E, Mississauga, ON L4Z 2E4, Canada",-79.6414894,43.616498
+"4696 Yonge St , Toronto - North, Ontario",Esso,122.9,,,,"4696 Yonge St, North York, ON M2N 5M2, Canada",-79.4105687,43.7585796
+"471 Main St S , Brampton, Ontario",Petro-Canada,120.7,133.9,139.9,120.9,"471 Main St S, Brampton, ON L6Y 1N6, Canada",-79.738164,43.66893
+"4722 Yonge St , Toronto - North, Ontario",Shell,122.9,,,121.9,"4722 Yonge St, Toronto, ON M2N 5M4, Canada",-79.41076269999999,43.7596642
+"474 Bayly St W , Ajax, Ontario",Petro-Canada,122.9,,,119.9,"474 Bayly St W, Ajax, ON L1S 7P9, Canada",-79.03599249999999,43.8405724
+"4747 Steeles Ave W , Toronto - North, Ontario",Petro-Canada,122.9,135.9,141.9,119.9,"4747 Steeles Ave W, North York, ON M9L 1X2, Canada",-79.5400507,43.77123350000001
+"4751 Leslie St , Toronto - North, Ontario",Esso,122.9,,,,"4751 Leslie St, North York, ON M2J 2K8, Canada",-79.36503189999999,43.778667
+"4758 Dundas St W , Toronto - West, Ontario",Shell,122.9,,,,"4758 Dundas St W, Toronto, ON M9A 1A9, Canada",-79.5263111,43.6518963
+"478 Kingston Rd , Pickering, Ontario",Esso,119.4,132.5,138.5,118.6,"478 Kingston Rd, Pickering, ON L1V 1A4, Canada",-79.12435099999999,43.81295
+"4780 Hwy 7 E , Markham, Ontario",Petro-Canada,122.9,135.9,141.9,118.9,"4780 Hwy 7, Unionville, ON L3R 1M8, Canada",-79.3033354,43.8631663
+"480 Derry Rd E , Mississauga, Ontario",Esso,120.9,136.9,134.6,,"480 Derry Rd E, Mississauga, ON L5T 2P3, Canada",-79.6952926,43.65504019999999
+"481 Rogers Rd , Toronto - Central, Ontario",Husky,119.7,,137.9,,"481 Ted Rogers Way, Toronto, ON M4Y, Canada",-79.37988779999999,43.6699576
+"4885 Mavis Rd , Mississauga, Ontario",Esso,117.9,134.9,140.9,,"4885 Mavis Rd, Mississauga, ON L5R 3W4, Canada",-79.668487,43.5923113
+"490 Great Lakes Dr , Brampton, Ontario",Shell,122.9,131.9,139.9,118.9,"490 Great Lakes Dr, Brampton, ON L6R, Canada",-79.7736453,43.7408885
+"4901 Sheppard Ave E , Toronto - East, Ontario",Pioneer,119.6,128.1,135.6,117.6,"4901 Sheppard Ave E, Scarborough, ON M1S 4A6, Canada",-79.2480934,43.7915658
+"4901 Steeles Ave W , Toronto - North, Ontario",Shell,122.9,135.9,140.9,122.9,"4901 Steeles Ave W, North York, ON M9L 2W1, Canada",-79.54277929999999,43.7706786
+"4919 Steeles Ave E , Toronto - East, Ontario",Canadian Petroleum,115.9,,133.9,118.9,"4919 Steeles Ave E, Scarborough, ON M1V, Canada",-79.290885,43.8269734
+"4926 Bathurst St , Toronto - North, Ontario",Shell,122.9,131.9,137.9,,"4926 Bathurst St, North York, ON M2R 1N2, Canada",-79.4434493,43.7734661
+"4995 Ebenezer Rd , Brampton, Ontario",Petro-Canada,122.9,134.9,140.9,119.9,"4995 Ebenezer Rd, Brampton, ON L6P, Canada",-79.65567089999999,43.7783177
+"5 Great Lakes Dr , Brampton, Ontario",Shell,116.9,133.9,141.9,118.9,"5 Great Lakes Dr, Brampton, ON L6R 2S5, Canada",-79.7598744,43.7308986
+"5 Main St N , Markham, Ontario",Husky,118.9,135.9,141.9,,"5 Main St N, Markham, ON L3P 1X3, Canada",-79.2595195,43.8743236
+"5 Red Maple Rd , Richmond Hill, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"5 Red Maple Rd, Richmond Hill, ON L4B 4M6, Canada",-79.4197815,43.83912170000001
+"5 Sandalwood Pkwy W , Brampton, Ontario",Petro-Canada,116.5,130.9,139.9,,"5 Sandalwood Pkwy W, Brampton, ON L6Z 4S3, Canada",-79.8031786,43.7170548
+"500 Browns Line , Toronto - West, Ontario",Econo,117.9,,,,"500 Brown's Line, Etobicoke, ON M8W 3V2, Canada",-79.54631599999999,43.603234
+"5000 Steeles Ave W , Toronto - West, Ontario",Petro-Canada,122.9,135.9,141.9,,"5000 Steeles Ave W, Etobicoke, ON M9V 5C5, Canada",-79.5906143,43.7598513
+"5008 Hurontario St , Mississauga, Ontario",Esso,118.9,131.9,137.9,,"5008 Hurontario St, Mississauga, ON L5R, Canada",-79.65368769999999,43.6066774
+"5014 Dixie Rd , Mississauga, Ontario",Esso,121.7,125.9,131.9,118.9,"5014 Dixie Rd, Mississauga, ON L4W, Canada",-79.6216474,43.6356784
+"5020 McLaughlin Rd , Mississauga, Ontario",Husky,117.9,130.9,136.9,,"5020 McLaughlin Rd, Mississauga, ON L5R 3R8, Canada",-79.6643749,43.5973189
+"504 Main St N , Brampton, Ontario",Petro-Canada,116.5,129.9,135.9,120.9,"504 Main St N, Brampton, ON L6V 1P9, Canada",-79.7773627,43.6994848
+"505 Jarvis St , Toronto - South, Ontario",Petro-Canada,122.9,135.9,141.9,119.9,"505 Jarvis St, Toronto, ON M4Y 2H7, Canada",-79.3780812,43.6665255
+"5067 Dixie Rd , Mississauga, Ontario",Canadian Tire,114.9,122.9,136.9,115.9,"5067 Dixie Rd, Mississauga, ON L4W 5S6, Canada",-79.6208213,43.6369476
+"5110 Sheppard Ave E , Toronto - East, Ontario",Petro-Canada,119.9,135.9,141.9,120.9,"5110 Sheppard Ave E, Scarborough, ON M1S 4N3, Canada",-79.2395856,43.7939687
+"5145 Dixie Rd , Mississauga, Ontario",Husky,119.7,129.7,136.7,,"5145 Dixie Rd, Mississauga, ON L4W 4G1, Canada",-79.6246302,43.6398186
+"515 Drewry Ave , Toronto - North, Ontario",Esso,122.9,134.9,140.9,119.9,"515 Drewry Ave, North York, ON M2R 2K9, Canada",-79.4441299,43.7807678
+"520 Dundas St W , Oakville, Ontario",Esso,122.9,135.9,141.9,,"520 Dundas St W, Oakville, ON L6H 6Y3, Canada",-79.74432920000001,43.464762
+"521 O'Connor Dr , Toronto - Central, Ontario",Shell,122.9,,,,"O'Connor Dr, Toronto, ON, Canada",-79.3521942,43.6928507
+"524 Rexdale Blvd , Toronto - West, Ontario",Petro-Canada,122.9,132.9,138.9,,"524 Rexdale Blvd, Etobicoke, ON M9W 7J9, Canada",-79.6029825,43.7193991
+"5241 Bloomington Rd  , Whitchurch-Stouffville, Ontario",Esso,118.5,,,118.9,"5241 Bloomington Rd, Whitchurch-Stouffville, ON L4A 7X3, Canada",-79.2902493,43.999884
+"5241 Hwy 7 W , Vaughan, Ontario",Petro-Canada,118.2,134.9,141.9,,"5241 Hwy 7, Woodbridge, ON L4L 1T2, Canada",-79.5968451,43.7784165
+"5260 Hwy 7 W , Vaughan, Ontario",Husky,118.2,133.9,139.9,118.7,"5260 Hwy 7, Woodbridge, ON L4L 1T3, Canada",-79.5976652,43.77887399999999
+"5267 Aurora Rd , Whitchurch-Stouffville, Ontario",Ultramar,115.6,,,115.9,"5267 Aurora Rd, Whitchurch-Stouffville, ON L4A 7X4, Canada",-79.2967076,44.0376786
+"5270 Steeles Ave E , Toronto - East, Ontario",Petro-Canada,122.9,,,,"5270 Steeles Ave E, Markham, ON L3S 1N1, Canada",-79.2759244,43.83128079999999
+"5272 Aurora Rd , Whitchurch-Stouffville, Ontario",Global,118.6,,,115.9,"5272 Aurora Rd, Whitchurch-Stouffville, ON L4A 7X4, Canada",-79.2966524,44.038325
+"5286 Dundas St W , Toronto - West, Ontario",Shell,122.9,,,,"5286 Dundas St W, Etobicoke, ON M9B 1B2, Canada",-79.53942010000002,43.63727430000001
+"5315 Major Mackenzie Dr E , Markham, Ontario",Petro-Canada,119.9,131.8,137.9,120.9,"5315 Major Mackenzie Dr E, Markham, ON L3P 3J3, Canada",-79.2926094,43.9033582
+"536 Mount Pleasant Rd , Toronto - Central, Ontario",Petro-Canada,123.3,,,,"536 Mt Pleasant Rd, Toronto, ON M4T 2E1, Canada",-79.3860648,43.6971875
+"537 Keele St , Toronto - Central, Ontario",Esso,121.9,,,,"4700 KEELE ST, Toronto, ON M3J, Canada",-79.4983993,43.7742464
+"540 Evans Ave , Toronto - West, Ontario",Esso,120.9,131.9,140.9,123.9,"540 Evans Ave, Etobicoke, ON M8W 2V4, Canada",-79.54254829999999,43.6125462
+"540 Mulock Dr , Newmarket, Ontario",Petro-Canada,120.3,,,,"540 Mulock Dr, Newmarket, ON L3Y 8R9, Canada",-79.4513884,44.0409412
+"541 Maple Grove Dr , Oakville, Ontario",Esso,122.9,,,,"541 Maple Grove Dr, Oakville, ON L6J 7M9, Canada",-79.65812849999999,43.4801913
+"5445 Steeles Ave E , Toronto - East, Ontario",Shell,122.9,,,,"5445 Steeles Ave E, Scarborough, ON M1V 5C2, Canada",-79.27550959999999,43.8306354
+"5455 Steeles Ave W , Toronto - North, Ontario",Speedway Gas,119.9,,,117.8,"5455 Steeles Ave W, North York, ON M9L 1S7, Canada",-79.5580799,43.7674033
+"5470 Dundas St W , Toronto - West, Ontario",Esso,122.9,,,,"5470 Dundas St W, Etobicoke, ON M9B 1B6, Canada",-79.545143,43.63222649999999
+"548 Richmond St E , Toronto - South, Ontario",Shell,122.9,136.9,144.9,,"548 Richmond St E, Toronto, ON M5A 1R5, Canada",-79.3638129,43.6548556
+"5495 Eglinton Ave W , Toronto - West, Ontario",Petro-Canada,122.9,,,120.9,"5495 Eglinton Ave E, Scarborough, ON M1L 2T3, Canada",-79.3017636,43.72486989999999
+"55 New Huntington Rd , Vaughan, Ontario",Costco,110.9,,122.9,,"55 New Huntington Rd, Woodbridge, ON L4H 3M9, Canada",-79.63918939999999,43.7699368
+"55 Spadina Ave , Toronto - South, Ontario",Petro-Canada,122.9,135.9,141.9,119.9,"55 Spadina Ave, Toronto, ON M5V 2J2, Canada",-79.3942979,43.6447622
+"550 Bur Oak Ave , Markham, Ontario",Esso,122.9,134.9,140.9,,"550 Bur Oak Ave, Markham, ON L6C 0C4, Canada",-79.2918899,43.8950699
+"550 Kingston Rd W , Ajax, Ontario",Marathon,120.9,131.9,139.9,119.9,"550 Kingston Rd W, Ajax, ON L1T 3A2, Canada",-79.05293549999999,43.8554434
+"553 Lake Shore Blvd W , Toronto - South, Ontario",Esso,121.9,134.9,140.9,119.9,"553 Lake Shore Blvd W, Toronto, ON M5V 1A6, Canada",-79.39970129999999,43.6362608
+"555 Whites Rd , Pickering, Ontario",Petro-Canada,122.9,,,,"555 Whites Rd S, Pickering, ON L1W, Canada",-79.1120328,43.8121225
+"5551 Finch Ave E , Toronto - East, Ontario",Esso,119.9,132.9,138.9,118.9,"5551 Finch Ave E, Scarborough, ON M1B 2T9, Canada",-79.24234539999999,43.8128794
+"5555 Kennedy Rd , Mississauga, Ontario",Petro-Canada,122.9,136.9,142.9,119.9,"5555 Kennedy Rd, Mississauga, ON L4Z 3E1, Canada",-79.6552538,43.6267746
+"5571 Yonge St , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"5571 Yonge St, North York, ON M2N 5S4, Canada",-79.41496579999999,43.7789343
+"5585 Winston Churchill Blvd , Mississauga, Ontario",Esso,119.6,130.9,136.9,,"5585 Winston Churchill Blvd, Mississauga, ON L5M 7P6, Canada",-79.7326803,43.5607615
+"5600 Mainway , Burlington, Ontario",Petro-Canada,,125.9,131.9,120.9,"5600 Mainway, Burlington, ON L7L 6C4, Canada",-79.7654688,43.4010591
+"561 O'Connor Dr , Toronto - Central, Ontario",Esso,122.9,,,,"O'Connor Dr, Toronto, ON, Canada",-79.3521942,43.6928507
+"562 Trafalgar Rd , Oakville, Ontario",Esso,121.1,135.9,141.9,,"562 Trafalgar Rd, Oakville, ON L6J 3J2, Canada",-79.6821178,43.4580411
+"5645 Hwy 7 , Vaughan, Ontario",Canadian Tire,119.7,129.7,134.7,118.9,"5645 Hwy 7, Woodbridge, ON L4L 1T7, Canada",-79.6097763,43.7753557
+"5651 Hurontario St , Mississauga, Ontario",Shell,119.9,133.9,141.9,117.9,"5651 Hurontario St, Mississauga, ON L4Z 1S7, Canada",-79.66917339999999,43.61962140000001
+"5706 Hwy 7 E , Markham, Ontario",Shell,119.9,,,,"5706 Hwy 7, Markham, ON L3P 1B4, Canada",-79.2684865,43.8715419
+"5739 Hwy 7 E , Markham, Ontario",Petro-Canada,119.6,,,,"5739 Hwy 7, Markham, ON L3P 1A9, Canada",-79.2670775,43.8710426
+"577 Birchmount Rd , Toronto - East, Ontario",Shell,122.9,131.9,140.9,,"577 Birchmount Rd, Scarborough, ON M1K 1P8, Canada",-79.2705865,43.7139243
+"577 Holland St W , Bradford West Gwillimbury, Ontario",Petro-Canada,,,,121.9,"577 Holland St W, Bradford, ON L3Z 2A4, Canada",-79.6012338,44.1065535
+"58 Three Valleys Dr , Toronto - Central, Ontario",3 Valleys,120.9,,124.9,130.9,"58 Three Valleys Dr, North York, ON M3A 3B5, Canada",-79.3365815,43.7518103
+"581 Kipling Ave , Toronto - West, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"581 Kipling Ave, Etobicoke, ON M8Z 5E7, Canada",-79.5237697,43.6154336
+"581 Parliament St , Toronto - South, Ontario",Esso,122.9,135.9,141.9,,"581 Parliament St, Toronto, ON M4X 1P7, Canada",-79.36878779999999,43.6670647
+"5818 Sheppard Ave E , Toronto - East, Ontario",Ultramar,119.9,135.9,138.9,,"5818 Sheppard Ave E, Scarborough, ON M1B 1H9, Canada",-79.23022449999999,43.79604519999999
+"5835 Airport Rd , Mississauga, Ontario",Petro-Canada,122.9,132.9,138.9,119.9,"5835 Airport Rd, Mississauga, ON L4V 1C8, Canada",-79.6062753,43.6863098
+"5842 Main St Stouffville , Whitchurch-Stouffville, Ontario",Shell,116.9,130.9,138.9,116.9,"5842 Main St, Whitchurch-Stouffville, ON L4A 2S8, Canada",-79.2609864,43.9684268
+"585 Dixon Rd , Toronto - West, Ontario",Petro-Canada,122.9,,,121.9,"585 Dixon Rd, Etobicoke, ON M9W 1H7, Canada",-79.57412769999999,43.6905161
+"5869 Airport Rd , Mississauga, Ontario",Shell,122.9,135.9,143.9,119.9,"5869 Airport Rd, Mississauga, ON L4V 1C9, Canada",-79.60738669999999,43.6863878
+"5869 Hwy 7 EB , Vaughan, Ontario",Pioneer,118.3,,,118.4,"5869 Hwy 7, Woodbridge, ON L4L 1T8, Canada",-79.6141854,43.7748019
+"587 Third Line , Oakville, Ontario",Petro-Canada,120.9,,,,"587 Third Line, Oakville, ON L6L 4A8, Canada",-79.71572499999999,43.417945
+"5946 Main St , Whitchurch-Stouffville, Ontario",Mac's,116.9,126.9,135.9,,"5946 Main St, Whitchurch-Stouffville, ON L4A 3A1, Canada",-79.2580803,43.9691744
+"5964 Hwy 9 , New Tecumseth, Ontario",Shell,119.9,,,123.9,"5964 ON-9, Schomberg, ON L0G 1T0, Canada",-79.6780303,44.0117758
+"5965 Hwy 7 E , Markham, Ontario",Esso,119.3,,141.9,,"5965 Hwy 7, Markham, ON L3P 1A1, Canada",-79.26047419999999,43.8733282
+"5975 Steeles Ave E , Toronto - East, Ontario",Esso,122.9,,,,"5975 Steeles Ave E, Scarborough, ON M1V 5P7, Canada",-79.2564666,43.8350002
+"5979 Shawson Dr , Mississauga, Ontario",Esso,117.5,,,119.9,"5979 Shawson Dr, Mississauga, ON L4W 3Y2, Canada",-79.6543789,43.64865349999999
+"5980 Hurontario St , Mississauga, Ontario",Esso,117.9,133.9,139.9,119.9,"5980 Hurontario St, Mississauga, ON L5R 3T6, Canada",-79.679531,43.6254012
+"5980 Mavis Rd , Mississauga, Ontario",Canadian Tire,117.9,129.9,132.9,119.6,"5980 Mavis Rd, Mississauga, ON L5V 2P5, Canada",-79.69551299999999,43.611337
+"5981 Mayfield Rd , Brampton, Ontario",Esso,120.9,133.9,139.9,118.9,"5981 Mayfield Rd, Brampton, ON L6R 0A8, Canada",-79.7602055,43.7906162
+"5995 Major Mackenzie Dr E , Markham, Ontario",Esso,118.9,132.9,138.9,119.9,"5995 Major Mackenzie Dr E, Markham, ON L6E 0G1, Canada",-79.26872949999999,43.9094534
+"600 North Rivermede Rd  , Vaughan, Ontario",Husky,119.8,131.9,,113.7,"600 N Rivermede Rd, Concord, ON L4K 3M9, Canada",-79.483468,43.8062569
+"600 Victoria Park Ave , Toronto - East, Ontario",Mobil,113.9,122.9,129.9,116.9,"600 Victoria Park Ave, Toronto, ON M4E 3T6, Canada",-79.287357,43.6873125
+"6000 Dufferin St , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"6000 Dufferin St, North York, ON M3H 5T5, Canada",-79.47065669999999,43.7866193
+"6004 Trafalgar Rd , Milton, Ontario",Petro-Canada,120.9,,,,"6004 Trafalgar Rd, Hornby, ON L0P 1E0, Canada",-79.78162780000001,43.5355666
+"6009 Hurontario St , Mississauga, Ontario",Petro-Canada,117.9,133.9,139.9,120.9,"6009 Hurontario St, Mississauga, ON L4Z 1S9, Canada",-79.67958279999999,43.62688319999999
+"6015 Leslie St , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"6015 Leslie St, North York, ON M2H 1J8, Canada",-79.36972399999999,43.799307
+"6015 McLaughlin Rd , Mississauga, Ontario",Husky,115.9,129.9,139.9,118.9,"6015 McLaughlin Rd, Mississauga, ON L5R 1B9, Canada",-79.69009799999999,43.61757799999999
+"6035 Creditview Rd , Mississauga, Ontario",Petro-Canada,117.9,132.9,138.9,120.9,"6035 Creditview Rd, Mississauga, ON L5V 2A8, Canada",-79.7120551,43.5981355
+"6070 Dixie Rd , Mississauga, Ontario",Esso,118.9,127.9,133.9,123.9,"6070 Dixie Rd, Mississauga, ON L5T, Canada",-79.64960789999999,43.656755
+"608 Wilson Ave , Toronto - North, Ontario",Shell,122.9,136.9,144.9,117.9,"608 Wilson Ave, North York, ON M3K 1C9, Canada",-79.45853919999999,43.7324971
+"613 Evans Ave , Toronto - West, Ontario",Petro-Canada,118.2,131.9,137.9,119.9,"613 Evans Ave, Etobicoke, ON M8W 2W5, Canada",-79.54941409999999,43.6103231
+"6161 Hwy 7 , Vaughan, Ontario",Esso,122.9,132.9,142.9,119.9,"6161 Hwy 7, Woodbridge, ON L4H 0K7, Canada",-79.6257718,43.7714617
+"620 Peter Robertson Blvd , Brampton, Ontario",Esso,122.9,,136.9,,"620 Peter Robertson Blvd, Brampton, ON L6R 1T5, Canada",-79.76019,43.739281
+"620 Thompson Rd S , Milton, Ontario",Petro-Canada,,134.9,,120.9,"620 Thompson Rd S, Milton, ON L9T 0H1, Canada",-79.8508427,43.51555680000001
+"624 Third Line  , Oakville, Ontario",Esso,119.9,130.9,136.9,119.9,"624 Third Line, Oakville, ON L6L 4A7, Canada",-79.71739459999999,43.4187145
+"625 Third Line , Oakville, Ontario",Husky,119.9,128.9,136.9,118.9,"625 Third Line, Oakville, ON L6L 4A8, Canada",-79.7168566,43.41876
+"6255 Bathurst St , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"6255 Bathurst St, North York, ON M2R, Canada",-79.4454879,43.7915426
+"627 Dixon Rd , Toronto - West, Ontario",Shell,122.9,134.9,143.9,121.9,"627 Dixon Rd, Etobicoke, ON M9W 1H7, Canada",-79.57653169999999,43.6900381
+"632 Burnhamthorpe Rd W , Mississauga, Ontario",Esso,117.9,130.9,136.9,,"632 Burnhamthorpe Rd W, Mississauga, ON L5B 2C4, Canada",-79.6508661,43.5794414
+"637 Vaughan Rd , Toronto - Central, Ontario",Ultramar,117.9,136.9,139.9,116.9,"637 Vaughan Rd, Toronto, ON M6E, Canada",-79.4408167,43.69263489999999
+"6375 Major Mackenzie Dr E , Markham, Ontario",Pioneer,118.6,125.1,132.6,118.6,"6375 Major Mackenzie Dr E, Markham, ON L3P 3J3, Canada",-79.2568296,43.91198989999999
+"640 Markham Rd , Toronto - East, Ontario",Shell,119.9,130.9,138.9,,"640 Markham Rd, Scarborough, ON M1H, Canada",-79.2255381,43.7601677
+"6400 Erin Mills Pkwy , Mississauga, Ontario",Petro-Canada,119.9,,139.9,,"6400 Erin Mills Pkwy, Mississauga, ON L5N 3P3, Canada",-79.7430655,43.5860662
+"6415 Dixie Rd , Mississauga, Ontario",Esso,115.9,126.9,132.9,118.9,"6415 Dixie Rd, Mississauga, ON L5T 1A4, Canada",-79.657572,43.6645704
+"645 Third Line  , Oakville, Ontario",Shell ,120.3,,140.9,,"645 Third Line, Oakville, ON L6L 4A9, Canada",-79.7175022,43.4192341
+"6483 Kingston Rd  , Toronto - East, Ontario",Global,113.9,134.9,139.9,119.9,"6483 Kingston Rd, Scarborough, ON M1C 1L4, Canada",-79.1564535,43.7922747
+"65 Dillane Dr , Schomberg, Ontario",Petro-Canada,119.9,,,,"65 Dillane Dr, Schomberg, ON L0G 1T0, Canada",-79.6764544,44.0053511
+"6536 Winston Churchill Blvd , Mississauga, Ontario",Petro-Canada,122.9,133.9,139.9,,"6536 Winston Churchill Blvd, Mississauga, ON L5N 4E3, Canada",-79.7587296,43.5787415
+"655 Queensway E , Mississauga, Ontario",Petro-Canada,116.9,,,,"655 Queensway E, Mississauga, ON L5A 3X6, Canada",-79.5926664,43.58863179999999
+"6625 Airport Rd , Mississauga, Ontario",Petro-Canada,122.9,,,,"6625 Airport Rd, Mississauga, ON L4V 1Y1, Canada",-79.63198419999999,43.6964917
+"6625 Kennedy Rd , Mississauga, Ontario",Husky,111.9,123.9,131.9,117.9,"6625 Kennedy Rd, Mississauga, ON L5T 2W4, Canada",-79.6830385,43.64748669999999
+"6707 Winston Churchill Blvd , Mississauga, Ontario",Canadian Tire,120.8,130.6,135.6,116.8,"6707 Winston Churchill Blvd, Mississauga, ON L5N 3W2, Canada",-79.7627637,43.5828152
+"6731 Kingston Rd , Toronto - East, Ontario",Shell,119.9,132.9,140.9,118.9,"6731 Kingston Rd, Scarborough, ON M1B 1G9, Canada",-79.1485584,43.7970559
+"675 Main St N , Brampton, Ontario",Pioneer,116.2,124.9,139.4,114.6,"675 Main St N, Brampton, ON L6X 0G6, Canada",-79.7866343,43.7051512
+"677 Burnhamthorpe Rd , Toronto - West, Ontario",Shell,121.9,,,,"677 Burnhamthorpe Rd, Etobicoke, ON M9C 2Z5, Canada",-79.5764179,43.6428613
+"6780 Kingston Rd , Toronto - East, Ontario",Esso,119.9,132.9,142.9,118.9,"6780 Kingston Rd, Scarborough, ON M1B 1G8, Canada",-79.14725039999999,43.7989086
+"6788 Regional Rd 25 , Milton, Ontario",Esso,,,,119.9,"6788 Regional Rd 25, Milton, ON L9T 2X5, Canada",-79.86148299999999,43.5058744
+"680 The Queensway , Toronto - West, Ontario",Shell,122.9,135.9,143.9,118.9,"680 The Queensway, Toronto, ON M8Y 1K9, Canada",-79.4990049,43.6273769
+"681 Chrislea Rd , Vaughan, Ontario",Husky,122.6,135.9,142.9,113.7,"681 Chrislea Rd, Woodbridge, ON L4L 8A3, Canada",-79.5469063,43.8078598
+"689 Lawrence Ave W , Toronto - Central, Ontario",Husky,122.6,132.6,139.9,,"689 Lawrence Ave W, North York, ON M6A 1B3, Canada",-79.4460465,43.7154462
+"695 Burnhamthorpe Rd W , Mississauga, Ontario",Petro-Canada,117.9,132.9,138.9,,"695 Burnhamthorpe Rd W, Mississauga, ON L5C 3A6, Canada",-79.6524471,43.579394
+"695 Lawrence Ave W , Toronto - Central, Ontario",Petro-Canada,122.9,132.6,138.6,119.9,"4218 Lawrence Ave E, Scarborough, ON M1E 4X9, Canada",-79.1842527,43.7694535
+"695 Major Mackenzie Dr E , Richmond Hill, Ontario",Petro-Canada,122.9,135.9,141.9,,"695 Major Mackenzie Dr E, Richmond Hill, ON L4C 1J7, Canada",-79.4157077,43.8756542
+"6953 Steeles Ave W , Toronto - West, Ontario",Esso,122.5,135.9,141.9,119.9,"6953 Steeles Ave E, Scarborough, ON M1X, Canada",-79.1973376,43.8489586
+"6968 Hwy 9 , New Tecumseth, Ontario",Esso,119.9,,,,"6968 ON-9, Schomberg, ON L0G 1T0, Canada",-79.70832580000001,44.00479430000001
+"698 Kingston Rd , Pickering, Ontario",Shell,119.8,134.9,139.9,126.9,"698 Kingston Rd, Pickering, ON L1V 1A6, Canada",-79.1163339,43.8190773
+"6980 Lisgar Dr , Mississauga, Ontario",7-Eleven,117.6,,,,"6980 Lisgar Dr, Mississauga, ON L5N 8C8, Canada",-79.7838261,43.5763893
+"6985 Hurontario St , Mississauga, Ontario",Shell,119.5,132.9,140.9,118.9,"6985 Hurontario St, Mississauga, ON L5T 2Z6, Canada",-79.705295,43.6461816
+"6990 Hurontario St  , Mississauga, Ontario",Husky,119.3,134.9,140.9,118.7,"6990 Hurontario St, Mississauga, ON L5W 1N5, Canada",-79.7060906,43.6453206
+"6990 Rexwood Rd , Mississauga, Ontario",Shell,122.9,132.9,142.9,118.9,"6990 Rexwood Rd, Mississauga, ON L4T 4E6, Canada",-79.6278566,43.7164463
+"6995 Dixie Rd , Mississauga, Ontario",Petro-Canada,115.9,129.9,135.9,118.9,"6995 Dixie Rd, Mississauga, ON L5T 1A8, Canada",-79.673412,43.675268
+"6998 Rexwood Rd , Mississauga, Ontario",Esso,122.9,135.9,141.9,119.9,"6998 Rexwood Rd, Mississauga, ON L4T 4E6, Canada",-79.6275896,43.71575440000001
+"7001 Woodbine Ave , Toronto - North, Ontario",Esso,122.9,135.9,141.9,119.9,"7001 Woodbine Ave, Markham, ON L3R 1A3, Canada",-79.3482539,43.8145118
+"701 Krosno Blvd , Pickering, Ontario",Petro-Canada,118.9,,,119.9,"701 Krosno Blvd, Pickering, ON L1W 1G4, Canada",-79.0839809,43.82183630000001
+"7010 Woodbine Ave , Toronto - North, Ontario",Esso,122.9,135.9,141.9,,"7010 Woodbine Ave, Markham, ON L3R 1A2, Canada",-79.3492646,43.8142779
+"7011 Bathurst St , Toronto - North, Ontario",Petro-Canada,122.9,135.9,141.9,119.9,"7011 Bathurst St, Thornhill, ON L4J 2J6, Canada",-79.4451759,43.7931494
+"7015 Kennedy Rd , Mississauga, Ontario",Petro-Canada,119.5,123.9,129.9,120.9,"7015 Kennedy Rd, Mississauga, ON L5S 0A4, Canada",-79.6952895,43.6565637
+"7015 Yonge St , Toronto - North, Ontario",Esso,122.9,135.9,141.9,119.9,"7015 Yonge St, Thornhill, ON L3T 2A5, Canada",-79.41971749999999,43.79851499999999
+"7018 Islington Ave , Toronto - North, Ontario",Esso,122.9,135.9,141.9,119.9,"7018 Islington Ave, Woodbridge, ON L4L 1V8, Canada",-79.5757313,43.7645186
+"7025 Millcreek Dr , Mississauga, Ontario",Esso,122.9,135.9,141.9,,"7025 Millcreek Dr, Mississauga, ON L5N 3R3, Canada",-79.76167439999999,43.5976404
+"7030 McLaughlin Rd , Mississauga, Ontario",Esso,122.9,130.9,,,"7030 McLaughlin Rd, Mississauga, ON L5W 1W7, Canada",-79.71777300000001,43.6365572
+"704 Kingston Rd , Pickering, Ontario",Petro-Canada,121.9,124.7,138.9,,"704 Kingston Rd, Pickering, ON L1V 1A8, Canada",-79.1152825,43.8196668
+"7092 Yonge St  , Vaughan, Ontario",Petro-Canada,122.9,,,,"7092 Yonge St, Thornhill, ON L4J 1V7, Canada",-79.4212701,43.8002641
+"71 Colossus Dr , Vaughan, Ontario",Costco,110.9,,122.9,,"71 Colossus Dr, Woodbridge, ON L4L 9J8, Canada",-79.54159039999999,43.785631
+"7155 Hurontario St , Mississauga, Ontario",Good Guys Gas Bar,119.9,133.9,139.9,118.9,"7155 Hurontario St, Mississauga, ON L5S 1Z8, Canada",-79.7093225,43.6495301
+"727 Kipling Ave , Toronto - West, Ontario",Global,117.7,,,117.9,"727 Kipling Ave, Etobicoke, ON M8Z 5G4, Canada",-79.52824319999999,43.6261433
+"7280 Dixie Rd , Mississauga, Ontario",Esso,120.9,132.9,138.9,118.9,"7280 Dixie Rd, Mississauga, ON L5S 1E1, Canada",-79.6974565,43.6921256
+"7314 Markham Rd , Markham, Ontario",Petro-Canada,122.9,,,,"7314 Markham Rd, Markham, ON L3S 0B1, Canada",-79.2535638,43.8447331
+"735 16th Ave , Richmond Hill, Ontario",Esso,122.9,135.9,141.9,119.9,"735 16th Ave, Richmond Hill, ON L4C 7A8, Canada",-79.4098422,43.8571536
+"7355 Goreway Dr , Mississauga, Ontario",Petro-Canada,122.9,132.9,140.9,119.9,"7355 Goreway Dr, Mississauga, ON L4T 2T8, Canada",-79.641204,43.7209638
+"7377 Yonge St , Vaughan, Ontario",Husky,122.6,,,,"7377 Yonge St, Thornhill, ON L3T 2B4, Canada",-79.4221065,43.8074912
+"7400 Bathurst St , Vaughan, Ontario",Petro-Canada,122.9,135.9,141.9,,"7400 Bathurst St, Thornhill, ON L4J 7M1, Canada",-79.4486974,43.80314080000001
+"7443 Trafalgar Rd , Milton, Ontario",Petro-Canada,,132.9,138.9,120.9,"7443 Trafalgar Rd, Milton, ON L0P, Canada",-79.82305649999999,43.5670114
+"7445 Kingston Rd , Toronto - East, Ontario",Pioneer,118.2,127.1,134.6,117.6,"7445 Kingston Rd, Scarborough, ON • M1E 4R2, Canada",-79.1416897,43.80155449999999
+"745 Courtneypark Dr W , Mississauga, Ontario",Shell,119.9,,,117.9,"745 Courtneypark Dr W, Mississauga, ON L5W 1L9, Canada",-79.71187309999999,43.6244025
+"7454 Airport Rd , Mississauga, Ontario",Econo,116.9,126.9,,,"7454 Airport Rd, Mississauga, ON L4T 2H5, Canada",-79.6550079,43.712337
+"747 Pharmacy Ave , Toronto - East, Ontario",Fas Gas,122.9,,,,"747 Pharmacy Ave, Scarborough, ON M1L 3J7, Canada",-79.29393379999999,43.7176781
+"7491 Nashville Rd , Vaughan, Ontario",Esso,122.9,136.9,142.9,114.9,"7491 Nashville Rd, Vaughan, ON L0J, Canada",-79.68776919999999,43.8362648
+"7500 Trafalgar Rd , Milton, Ontario",Esso,,129.9,136.9,119.9,"7500 Trafalgar Rd, Milton, ON L9T 7V9, Canada",-79.82627350000001,43.5686786
+"751 Kipling Ave , Toronto - West, Ontario",Esso,120.9,,,,"751 Kipling Ave, Etobicoke, ON M8Z 5G6, Canada",-79.5289154,43.6278421
+"7540 Winston Churchill Blvd , Mississauga, Ontario",Shell,122.9,131.9,139.9,118.9,"7540 Winston Churchill Blvd, Mississauga, ON L5N, Canada",-79.7855973,43.5983107
+"7635 Markham Rd , Markham, Ontario",Petro-Canada,122.9,,,,"7635 Markham Rd, Markham, ON L3S 3J9, Canada",-79.25376729999999,43.8517696
+"7660 Markham Rd , Markham, Ontario",Canadian Tire,122.9,,,,"7660 Markham Rd, Markham, ON L3S 4S1, Canada",-79.25531459999999,43.8521768
+"7738 Yonge St  , Vaughan, Ontario",Petro-Canada,123.3,,,,"7738 Yonge St, Thornhill, ON L4J 1W2, Canada",-79.42495989999999,43.8159645
+"7749 Kennedy Rd , Markham, Ontario",Esso,122.9,,,119.9,"7749 Kennedy Rd, Markham, ON L3R, Canada",-79.3045669,43.8432934
+"7750 McCowan Rd , Markham, Ontario",Petro-Canada,122.9,,,120.9,"7750 McCowan Rd, Markham, ON L3S 3J4, Canada",-79.280446,43.8485162
+"7756 Hurontario St , Brampton, Ontario",Shell,122.9,136.9,144.9,,"7756 Hurontario St, Brampton, ON L6Y 0C7, Canada",-79.7282766,43.6617165
+"7761 Woodbine Ave , Markham, Ontario",Petro-Canada,123.3,,,,"7761 Woodbine Ave, Markham, ON L3R 5X8, Canada",-79.35296389999999,43.8321708
+"780 Bancroft Dr , Mississauga, Ontario",Esso,117.9,133.9,139.9,118.9,"780 Bancroft Dr, Mississauga, ON L5V 2Y6, Canada",-79.7026949,43.61637169999999
+"780 South Sheridan Way , Mississauga, Ontario",Shell,122.9,,,119.9,"780 S Sheridan Way, Mississauga, ON L5H 1Z6, Canada",-79.61602599999999,43.5500171
+"7800 Jane St , Vaughan, Ontario",Shell,122.9,,,,"7800 Jane St, Concord, ON L4K 4R6, Canada",-79.52530010000001,43.794963
+"7828 9th Line , Markham, Ontario",Shell,119.9,,,,"The Ninth Line Baptist Church, Markham Rd, Markham, ON L3P 3J3, Canada",-79.2668961,43.8938075
+"7890 Hurontario St , Brampton, Ontario",Petro V Plus,118.7,131.9,137.9,117.5,"7890 Hurontario St, Brampton, ON L6Y 0C7, Canada",-79.7304095,43.663249
+"795 Eglinton Ave W , Mississauga, Ontario",Shell,119.9,134.9,140.9,,"795 Eglinton Ave W, Mississauga, ON L5V, Canada",-79.6700281,43.59223840000001
+"7965 Financial Dr , Brampton, Ontario",Petro-Canada,122.9,136.9,142.9,118.9,"7965 Financial Dr, Brampton, ON L6Y 0B4, Canada",-79.7697713,43.6320756
+"7970 Mavis Rd , Brampton, Ontario",Esso,122.9,129.9,135.9,118.9,"7970 Mavis Rd, Brampton, ON L6Y 5L5, Canada",-79.7545554,43.6461032
+"7990 Hurontario St , Brampton, Ontario",Husky,120.5,134.9,140.9,118.7,"7990 Hurontario St, Brampton, ON L6Y 0B8, Canada",-79.73315529999999,43.66523369999999
+"7995 Dixie Rd , Brampton, Ontario",Petro-Canada,119.9,132.9,138.9,119.9,"7995 Dixie Rd, Brampton, ON L6T, Canada",-79.7008737,43.6949949
+"7995 Kennedy Rd S , Brampton, Ontario",Esso,122.9,135.9,141.9,119.9,"7995 Kennedy Rd S, Brampton, ON L6V 3N2, Canada",-79.7219374,43.6756805
+"7998 Dixie Rd , Brampton, Ontario",Husky,119.7,131.9,137.9,118.7,"7998 Dixie Rd, Brampton, ON L6T 4K7, Canada",-79.7009209,43.69435499999999
+"8 Kingston Rd E , Ajax, Ontario",Esso,113.3,128.9,132.9,,"8 Kingston Rd E, Ajax, ON L1T 4W4, Canada",-79.02538,43.861894
+"8 South Kingsway , Toronto - South, Ontario",Petro-Canada,122.9,135.9,141.9,,"8 S Kingsway, Toronto, ON M6S 3T2, Canada",-79.47532060000002,43.6368196
+"800 Lawrence Ave E , Toronto - Central, Ontario",Esso,122.9,,,,"4218 Lawrence Ave E, Scarborough, ON M1E 4X9, Canada",-79.1842527,43.7694535
+"800 Morningside Ave , Toronto - East, Ontario",Husky,118.6,130.9,137.9,,"800 Morningside Ave, Scarborough, ON M1C 1B8, Canada",-79.19501199999999,43.7898057
+"800 York Mills Rd , Toronto - Central, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"770 Don Mills Rd, North York, ON M3C 1T3, Canada",-79.3391838,43.7164069
+"8044 Dixie Rd , Brampton, Ontario",Esso,119.9,127.9,136.9,117.9,"8044 Dixie Rd, Brampton, ON L6T 5C3, Canada",-79.7085055,43.699351
+"8155 Torbram Rd , Brampton, Ontario",Petro-Canada,120.6,130.9,136.9,124.9,"8155 Torbram Rd, Brampton, ON L6T 5C5, Canada",-79.6835756,43.7177652
+"829 Lake Shore Blvd E , Toronto - South, Ontario",Esso,122.9,,,119.9,"829 Lake Shore Blvd E, Toronto, ON M4M 1B2, Canada",-79.3375203,43.65443150000001
+"8291 Woodbine Ave , Markham, Ontario",Esso,122.9,134.9,140.9,118.9,"8291 Woodbine Ave, Markham, ON L3R 2P4, Canada",-79.3562062,43.8448651
+"830 Burnhamthorpe Rd , Toronto - West, Ontario",Petro-Canada,122.9,135.9,141.9,,"830 Burnhamthorpe Rd, Etobicoke, ON M9C 2Z3, Canada",-79.583756,43.6392072
+"8301 Sheppard Ave E , Toronto - East, Ontario",Shell,119.9,135.9,143.9,,"8301 Sheppard Ave E, Scarborough, ON M1B 5P7, Canada",-79.1923841,43.8031882
+"8330 Kennedy Rd , Markham, Ontario",Shell,122.9,136.9,144.9,,"8330 Kennedy Rd, Unionville, ON L3R 0P5, Canada",-79.3054429,43.857125
+"835 Yonge St , Toronto - Central, Ontario",Canadian Tire,122.9,129.9,134.9,114.9,"835 Yonge St, Toronto, ON M4W 2H2, Canada",-79.38755979999999,43.6731387
+"840 Dupont St , Toronto - Central, Ontario",Pioneer,113.9,,129.9,,"840 Dupont St, Toronto, ON M6G 1Z8, Canada",-79.4275737,43.6709778
+"843 Don Mills Rd , Toronto - Central, Ontario",Esso,122.9,,,,"770 Don Mills Rd, Toronto, ON L6H 4L2, Canada",-79.338713,43.716465
+"8480 Hwy 27 , Vaughan, Ontario",Petro-Canada,118.9,131.9,137.9,119.9,"8480 Hwy 27, Woodbridge, ON L4H 0A7, Canada",-79.6268029,43.7907695
+"850 Appleby Line , Burlington, Ontario",Pioneer,,,,117.2,"850 Appleby Line, Burlington, ON L7L 2Y7, Canada",-79.7678141,43.3768581
+"850 Roselawn Ave , Toronto - Central, Ontario",Shell,122.9,,,,"850 Roselawn Ave, Toronto, ON M6B, Canada",-79.4411272,43.7022239
+"8510 Woodbine Ave , Markham, Ontario",Shell,122.9,136.9,144.9,,"8510 Woodbine Ave, Markham, ON L3R 4X8, Canada",-79.3587065,43.85059
+"8525 Hwy 27 , Vaughan, Ontario",Esso,118.9,131.9,137.9,119.9,"8525 Hwy 27, Woodbridge, ON L4L 1A7, Canada",-79.6256703,43.7920212
+"854 Pape Ave , Toronto - Central, Ontario",Tonka Gas Bar,119.9,,,,"854 Pape Ave, East York, ON M4K 3T8, Canada",-79.3467709,43.6840256
+"8555 Keele St , Vaughan, Ontario",Esso,120.3,131.9,137.9,113.9,"8555 Keele St, Concord, ON L4K 2N1, Canada",-79.5032335,43.8191605
+"861 Avenue Rd , Toronto - Central, Ontario",Husky,120.4,128.9,134.9,,"861 Avenue Rd, Toronto, ON M5P 2K4, Canada",-79.4055606,43.6983401
+"8656 Yonge St , Richmond Hill, Ontario",Shell,122.9,136.9,144.9,118.9,"8656 Yonge St, Richmond Hill, ON L4C 6Z4, Canada",-79.43028029999999,43.8386601
+"866 Avenue Rd , Toronto - Central, Ontario",Esso,122.3,130.9,136.9,,"866 Avenue Rd, Toronto, ON M5P 2K3, Canada",-79.4062593,43.6985016
+"8675 McCowan Rd , Markham, Ontario",Canadian Tire,122.9,132.7,139.9,,"8675 McCowan Rd, Markham, ON L3P 4H1, Canada",-79.2838739,43.8725304
+"8727 Dufferin St , Vaughan, Ontario",Petro-Canada,122.9,,,,"8727 Dufferin St, Thornhill, ON L4J, Canada",-79.4799488,43.82948649999999
+"873 Queen St W , Toronto - South, Ontario",7-Eleven,120.9,128.9,135.9,,"873 Queen St W, Toronto, ON M6J 1G4, Canada",-79.41092619999999,43.6455821
+"875 The Queensway , Toronto - West, Ontario",XTR,115.3,123.6,129.9,,"875 The Queensway, Etobicoke, ON M8Z 1N8, Canada",-79.5108599,43.6241661
+"8760 Bayview Ave , Richmond Hill, Ontario",Petro-Canada,122.9,135.9,141.9,,"8760 Bayview Ave, Richmond Hill, ON L4B 4M2, Canada",-79.40866869999999,43.8444955
+"879 Kipling Ave , Toronto - West, Ontario",Husky,119.9,,,118.7,"879 Kipling Ave, Etobicoke, ON M8Z 5H2, Canada",-79.532484,43.6358926
+"898 Kingston Rd , Pickering, Ontario",Global,121.9,,134.9,118.9,"898 Kingston Rd, Pickering, ON L1V 1A8, Canada",-79.10749,43.824076
+"8980 Goreway Dr , Brampton, Ontario",Petro-Canada,119.6,,137.9,120.9,"8980 Goreway Dr, Brampton, ON L6T 0C4, Canada",-79.6845668,43.752286
+"9 Bovaird Dr E , Brampton, Ontario",Esso,116.5,133.9,139.9,120.9,"9 Bovaird Dr E, Brampton, ON L6V 0A2, Canada",-79.7861487,43.7058755
+"90 The Queensway , Toronto - South, Ontario",Petro-Canada,122.9,135.9,141.9,,"90 The Queensway, Toronto, ON M6S 1A5, Canada",-79.4715068,43.6371769
+"900 Progress Ave , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,120.9,"900 Progress Ave, Scarborough, ON M1H 2Z9, Canada",-79.23478419999999,43.7821356
+"901 Sheppard Ave W , Toronto - North, Ontario",Petro-Canada,121.9,,,,"901 Sheppard Ave W, North York, ON M3H 2T7, Canada",-79.4569078,43.7513234
+"908 Sheppard Ave W , Toronto - North, Ontario",Shell,121.9,,,,"908 Sheppard Ave W, North York, ON M3H 2T6, Canada",-79.45754339999999,43.7520013
+"909 Wilson Ave , Toronto - North, Ontario",Shell,122.9,136.9,144.9,,"909 Wilson Ave, North York, ON M3K 1E6, Canada",-79.4678399,43.7301656
+"915 Westney Rd S , Ajax, Ontario",Shell,113.9,,,,"915 Westney Rd S, Ajax, ON L1S 3M4, Canada",-79.01829339999999,43.8308385
+"920 Albion Rd , Toronto - West, Ontario",Top Valu,120.6,130.1,137.6,116.6,"920 Albion Rd, Etobicoke, ON M9V 1A4, Canada",-79.5608142,43.735414
+"9240 Leslie St , Richmond Hill, Ontario",Shell,122.9,134.9,141.9,,"9240 Leslie St, Richmond Hill, ON L4B 2N8, Canada",-79.3873235,43.8619126
+"9249 9th Ln , Markham, Ontario",Petro-Canada,119.9,135.9,141.9,,"The Ninth Line Baptist Church, Markham Rd, Markham, ON L3P 3J3, Canada",-79.2668961,43.8938075
+"9270 McCowan Rd , Markham, Ontario",Shell,122.9,131.9,139.9,120.9,"9270 McCowan Rd, Markham, ON L6C 2L1, Canada",-79.289678,43.8855693
+"9277 Bayview Ave , Richmond Hill, Ontario",Petro-Canada,122.9,135.9,140.9,,"9277 Bayview Ave, Richmond Hill, ON L4C 9X6, Canada",-79.41025359999999,43.8575578
+"929 Queen St E , Toronto - South, Ontario",Leslieville Pumps,119.9,,130.9,,"929 Queen St E, Toronto, ON M4M 1J6, Canada",-79.3405298,43.6605948
+"9301 Hwy 50 , Vaughan, Ontario",Petro-Canada,122.9,135.9,141.9,,"9301 Hwy 50, Woodbridge, ON L4H 2Y5, Canada",-79.668931,43.802868
+"933 Warden Ave , Toronto - East, Ontario",Tru Value,119.9,,,119.9,"933 Warden Ave, Scarborough, ON M1L 4C5, Canada",-79.2889986,43.7321176
+"9332 Keele St , Vaughan, Ontario",Husky,119.1,131.9,138.9,113.7,"9332 Keele St, Vaughan, ON L6A, Canada",-79.5093832,43.8388454
+"935 Liverpool Rd , Pickering, Ontario",Shell,117.9,130.9,138.9,119.9,"935 Liverpool Rd, Pickering, ON L1W 1S7, Canada",-79.08691189999999,43.8285478
+"9400 Hwy 27 , Vaughan, Ontario",Mi Fuel,116.9,124.9,131.9,116.9,"9400 Hwy 27, Woodbridge, ON L4L 1A7, Canada",-79.630833,43.8148728
+"9431 Torbram Rd , Brampton, Ontario",Petro-Canada,119.6,132.9,138.9,119.9,"9431 Torbram Rd, Brampton, ON L6S 6E6, Canada",-79.7193303,43.7441299
+"9495 Airport Rd , Brampton, Ontario",Petro-Canada,119.6,135.9,141.9,120.9,"9495 Airport Rd, Brampton, ON L6S 6C7, Canada",-79.7090369,43.7539072
+"9501 Sheppard Ave E , Toronto - East, Ontario",Petro-Canada,122.9,135.9,141.9,,"9501 Sheppard Ave E, Scarborough, ON • M1E 4R2, Canada",-79.1714312,43.807831
+"952 King St W , Toronto - South, Ontario",Esso,122.9,134.9,140.9,,"952 King St W, Toronto, ON M6K 1E4, Canada",-79.4123626,43.6421894
+"9550 Yonge St , Richmond Hill, Ontario",Petro-Canada,119.9,135.9,143.9,120.9,"9550 Yonge St, Richmond Hill, ON L4C 1V6, Canada",-79.43544,43.8604772
+"9700 Yonge St , Richmond Hill, Ontario",Esso,119.9,128.9,134.9,119.9,"9700 Yonge St, Richmond Hill, ON L4C 1V8, Canada",-79.4361067,43.86350849999999
+"980 Islington Ave , Toronto - West, Ontario",7-Eleven,122.6,125.5,131.5,119.7,"980 Islington Ave, Etobicoke, ON M8Z, Canada",-79.5171194,43.629306
+"9800 Chinguacousy Rd , Brampton, Ontario",Esso,122.9,,,,"9800 Chinguacousy Rd, Brampton, ON L6X 5E9, Canada",-79.8032711,43.6818912
+"9878 Dixie Rd , Brampton, Ontario",Petro-Canada,122.9,131.9,137.9,,"9878 Dixie Rd, Brampton, ON L6S 5W4, Canada",-79.7483252,43.7293643
+"99 McEwan Dr E , Caledon, Ontario",Canadian Tire,,128.1,136.1,118.3,"99 McEwan Dr E, Bolton, ON L7E 2Z7, Canada",-79.7098788,43.8618146
+"9919 Airport Rd , Brampton, Ontario",Shell,119.6,,138.9,119.9,"9919 Airport Rd, Brampton, ON L6S, Canada",-79.7188894,43.7608291
+"995 Eglinton Ave E , Mississauga, Ontario",Petro-Canada,114.9,,,,"995 Eglinton Ave E, Mississauga, ON L4W 4H3, Canada",-79.6311437,43.6270377
+"995 Pape Ave , East York, Ontario",Cocomile Service Centre,114.9,,,,"995 Pape Ave, East York, ON M4K 3V8, Canada",-79.347831,43.6877611
+"995 Pape Ave , Toronto - Central, Ontario",National Gas & Variety,114.9,,,,"995 Pape Ave, East York, ON M4K 3V8, Canada",-79.347831,43.6877611
+"9950 Chinguacousy Rd , Brampton, Ontario",Shell,119.3,134.9,142.9,119.9,"9950 Chinguacousy Rd, Brampton, ON L6X 4W2, Canada",-79.8084677,43.6854534
+"9950 McLaughlin Rd , Brampton, Ontario",Husky,118.3,132.9,136.9,,"9950 McLaughlin Rd N, Brampton, ON L6X 5C7, Canada",-79.79749369999999,43.6952899
+"9980 Mississauga Rd , Brampton, Ontario",Petro-Canada,119.3,134.9,140.9,120.9,"9980 Mississauga Rd, Brampton, ON L6X 0B5, Canada",-79.82956399999999,43.66631599999999
+"9981 Chinguacousy Rd , Brampton, Ontario",Petro-Canada,119.2,136.9,142.9,,"9981 Chinguacousy Rd, Brampton, ON L6X 0E8, Canada",-79.8075355,43.6863245
+"999 Harwood Ave N , Ajax, Ontario",Shell,113.9,128.9,136.9,118.9,"999 Harwood Ave N, Ajax, ON L1Z 1Y7, Canada",-79.0260017,43.87952079999999
+"999 North Service Rd , Mississauga, Ontario",Husky,122.9,,,,"999 N Service Rd, Mississauga, ON L4Y 1A4, Canada",-79.5774038,43.5897116
+"9999 Bayview Ave , Richmond Hill, Ontario",Esso,122.9,135.9,141.9,118.9,"9999 Bayview Ave, Richmond Hill, ON L4C 8W7, Canada",-79.4148027,43.8758473
+"Hwy 50 , Caledon, Ontario",Shell,118.7,,138.7,118.9,"Hwy 50, Caledon, ON, Canada",-79.7491119,43.8873864
+"Taymall Ave , Toronto - West, Ontario",Costco,109.9,,121.9,,"Taymall Ave, Etobicoke, ON M8Z, Canada",-79.50661629999999,43.6238871
