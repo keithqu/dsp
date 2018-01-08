@@ -7,6 +7,6 @@
 
 ### Visualization and Fun
 
-<a href="https://github.com/keithqu/dsp/blob/master/gasprices/gas%20prices.ipynb">Greater Toronto Area Gas Map</a> - web scraping for gas prices, and plots locations and prices with Folium. Includes some light analysis: gas stations within 100m of a Starbucks tend to charge 0.6 cents more for regular gas!
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/gasprices/gas%20prices.ipynb">Greater Toronto Area Gas Map</a> - web scraping for gas prices, and plots locations and prices with Folium. Includes some light analysis: gas stations within 100m of a Starbucks tend to charge 0.6 cents more for regular gas!
 
-<a href="https://github.com/keithqu/illustrative/blob/master/K%20Means%20Iteration.ipynb">Iterative K Means</a> - showcases how K Means  clustering finds new centroids and labels in each iteration.
+<a href="http://nbviewer.jupyter.org/github/keithqu/illustrative/blob/master/K%20Means%20Iteration.ipynb">Iterative K Means</a> - showcases how K Means  clustering finds new centroids and labels in each iteration.
