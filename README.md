@@ -3,7 +3,7 @@
 ### Prediction and Analysis
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/credit%20risk/Credit%20Risk%20Predictions.ipynb">Credit Risk Classification</a><br>
-risk classification 150,000 observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Using only gradient boosting, the model has a high score of 0.866752 on the private leaderboard.
+Risk classification 150,000 observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Using only gradient boosting, the model has a high score of 0.866752 on the private leaderboard.
          
 
 ### Visualization and Fun
