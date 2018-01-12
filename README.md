@@ -18,4 +18,4 @@ Web scraping for gas prices, and plots locations and prices with Folium. Include
 ### Scraping
 
 Yahoo Finance Headlines<br>
-Yahoo no longer lets us specify a date range for headlines, and the top page only displays 25. More is injected onto the page when you scroll down, so I use Selenium and Google's net logging to get the json URLs and access them directly. The json contains more data than what actually shows up on the page (and the exact date), so this has been pretty useful.
+Yahoo no longer lets us specify a date range for headlines, and the top page only displays 25. More is injected onto the page when you scroll down, so I use Selenium and Google's net logging to get the json URLs and access them directly. The json contains more data than what actually shows up on the page (and the exact date), so this could be pretty useful.
