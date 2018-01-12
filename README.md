@@ -3,7 +3,7 @@
 ### Prediction and Analysis
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/credit%20risk/Credit%20Risk%20Predictions.ipynb">Credit Risk Classification</a><br>
-Risk classification 150,000 observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Using only gradient boosting, the model has a high score of 0.866752 on the private leaderboard.
+Risk classification  with hundreds of thousands of observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Using only gradient boosting, the model has a high score of 0.866752 on the private leaderboard.
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/manhattanofficelease/Manhattan%20Office%20Real%20Estate.ipynb">Estimating Manhattan Office Rental Rates</a><br>
 I create a dataset of 1369 Manhattan office rentals with 11 features, of which 539 have listed rental rates in $/sqft/year, which I convert into monthly rental rates. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
