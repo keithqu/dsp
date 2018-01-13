@@ -8,6 +8,11 @@ Risk classification  with hundreds of thousands of observations from Kaggle's <a
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/manhattanofficelease/Manhattan%20Office%20Real%20Estate.ipynb">Estimating Manhattan Office Rental Rates</a><br>
 I create a dataset of 1369 Manhattan office rentals with 11 features, of which 539 have listed rental rates in $/sqft/year, which I convert into monthly rental rates. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
 
+### Natural Language
+
+Summarize Proust<br>
+Inspired by the Monty Python sketch, I use nltk and TensorFlow to summarize the first book of Marcel Proust's <i>Au recherche du temps perdu</i>.
+
 ### Visualization and Fun
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/gasprices/gas%20prices.ipynb">Greater Toronto Area Gas Map</a><br>
