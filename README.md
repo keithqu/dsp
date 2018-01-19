@@ -10,6 +10,9 @@ I create a dataset of 1369 Manhattan office rentals with 11 features, of which 5
 
 ### Natural Language
 
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/yfsent/Yahoo%20Finance%20Headlines.ipynb">Yahoo Finance Headlines</a><br>
+Yahoo Finance is one of the company's few remaining products that is actually very good, but support has been reduced greatly, and it no longer lets us specify a date range for headlines. By default, the page only displays 25 and more is injected onto the page when you scroll down, so I use Selenium and Google's net logging to get the json URLs and access them directly. The json contains more data than what actually shows up on the page (and the exact date), so this could be pretty useful. These headlines are then converted into sentiment scores.
+
 Summarize Proust<br>
 Inspired by the Monty Python sketch, I use nltk and TensorFlow to summarize the first book of Marcel Proust's <i>Au recherche du temps perdu</i>.
 
@@ -19,8 +22,3 @@ Inspired by the Monty Python sketch, I use nltk and TensorFlow to summarize the 
 Web scraping for gas prices, and plots locations and prices with Folium. Includes some light analysis: gas stations within 100m of a Starbucks tend to charge 0.6 cents more for regular gas!
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/illustrative/blob/master/K%20Means%20Iteration.ipynb">Iterative K Means</a><br>Showcases how K Means  clustering finds new centroids and labels in each iteration.
-
-### Scraping
-
-Yahoo Finance Headlines<br>
-Yahoo Finance is one of the company's few remaining products that is actually very good, but support has been reduced greatly, and it n longer lets us specify a date range for headlines. By default, the page only displays 25 and more is injected onto the page when you scroll down, so I use Selenium and Google's net logging to get the json URLs and access them directly. The json contains more data than what actually shows up on the page (and the exact date), so this could be pretty useful.
