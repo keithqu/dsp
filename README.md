@@ -6,7 +6,7 @@
 Risk classification with 150,000 training and 100,000 test observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Highest private leaderboard score so far is 0.866752.
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/manhattanofficelease/Manhattan%20Office%20Real%20Estate.ipynb">Estimating Manhattan Office Rental Rates</a><br>
-I an 11 feature dataset of 1369 Manhattan office rentals, of which 539 have listed rental rates in $/sqft/year. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
+I construct an 11 feature dataset of 1369 Manhattan office rentals, of which 539 have listed rental rates in $/sqft/year. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
 
 ### Natural Language
 
