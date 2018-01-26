@@ -10,11 +10,11 @@ I construct an 11 feature dataset of 1369 Manhattan office rentals, of which 539
 
 ### Natural Language
 
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/toxiccomments/Classifying%20Toxic%20Comments.ipynb">Toxic Comments Classification</a><br>
+A quick look at classifying different forms of <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">toxic internet comments</a> using logistic regression, NB-SVM, as well as convolutional and recurrent neural networks with the Keras API running on a TF backend.
+
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/yfsent/Yahoo%20Finance%20Headlines.ipynb">Yahoo Finance Headlines</a><br>
 Yahoo Finance is one of the company's few remaining products that is actually very good, but support has been reduced greatly, and it no longer lets us specify a date range for headlines. By default, the page only displays 25 and more is injected onto the page when you scroll down, so I use Selenium and Google's net logging to get the json URLs and access them directly. The json contains more data than what actually shows up on the page (and the exact date), so this could be pretty useful. These headlines are then converted into sentiment scores.
-
-Toxic Comments Classification<br>
-A quick look at classifying different forms of <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">toxic internet comments</a> using logistic regression, boosting, as well as convolutional neural networks and long short-term memory with Keras running on TF.
 
 ### Visualization and Other Stuff
 
