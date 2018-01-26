@@ -10,7 +10,7 @@ I construct an 11 feature dataset of 1369 Manhattan office rentals, of which 539
 
 ### Natural Language
 
-<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/toxiccomments/Classifying%20Toxic%20Comments.ipynb">Toxic Comments Classification</a><br>
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/toxiccomments/Toxic%20Comments%20Classification.ipynb">Toxic Comments Classification</a><br>
 A quick look at classifying different forms of <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">toxic internet comments</a> using logistic regression, NB-SVM, as well as convolutional and recurrent neural networks with the Keras API running on a TF backend.
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/yfsent/Yahoo%20Finance%20Headlines.ipynb">Yahoo Finance Headlines</a><br>
