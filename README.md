@@ -9,7 +9,7 @@ Risk classification with 150,000 training and 100,000 test observations from Kag
 I construct an 11 feature dataset of 1369 Manhattan office rentals, of which 539 have listed rental rates in $/sqft/year. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/mercariprice/Price%20Suggestions.ipynb">Mercari Price Suggestion</a> (in progress) <br>
-With data from the <a href="https://www.kaggle.com/c/mercari-price-suggestion-challenge">Mercari Price Suggestion Challenge</a>, I... uh challenge myself to suggest prices. Currently in the top 33% after one submission, a lot of room to improve.
+With data from the <a href="https://www.kaggle.com/c/mercari-price-suggestion-challenge">Mercari Price Suggestion Challenge</a>, I... uh challenge myself to suggest prices. Currently in the top 33% after one submission, a lot of room to improve. A big issue is that I can't exactly reproduce the batch_size I can use on the Kaggle kernel on my computer. Time to get that GTX 1080i...
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/toxiccomments/Toxic%20Comments%20Classification.ipynb">Toxic Comments Classification</a> (in progress)<br>
 A quick look at multilabel classification with different forms of <a href="https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge">toxic internet comments</a> using logistic regression, NB-SVM, as well as convolutional and recurrent neural networks with the Keras API running on a TF backend.
