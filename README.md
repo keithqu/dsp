@@ -2,8 +2,8 @@
 
 ### Prediction and Analysis
 
-Yelp Star Prediction<br>
-I wanted to see how much exterior weather and a business' relative price affects star ratings in addition to comment text. So I do some classification with Keras on 630,000+ reviews of businesses in the Toronto area.
+<a href="https://github.com/keithqu/dsp/blob/master/yelp/Yelp%20Stars%20Prediction.ipynb">Yelp Star Prediction</a><br>
+I wanted to see how much exterior weather and a business' relative price affects star ratings in addition to comment text. So I do some classification with Keras on 630,000+ reviews of businesses in the Toronto area. (only the basic comment classification completed so far)
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/credit%20risk/Credit%20Risk%20Predictions.ipynb">Credit Risk Classification</a><br>
 Risk classification with 150,000 training and 100,000 test observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Highest private leaderboard score so far is 0.866752.
@@ -11,7 +11,7 @@ Risk classification with 150,000 training and 100,000 test observations from Kag
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/manhattanofficelease/Manhattan%20Office%20Real%20Estate.ipynb">Estimating Manhattan Office Rental Rates</a><br>
 I construct an 11 feature dataset of 1369 Manhattan office rentals, of which 539 have listed rental rates in $/sqft/year. With the 539 observation training set, I convert addresses and strings into quantitative data, and engineer features to try to create a predictive model of the remaining 830 prices.
 
-<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/mercariprice/Price%20Suggestions.ipynb">Mercari Price Suggestion</a> (in progress) <br>
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/mercariprice/Price%20Suggestions.ipynb">Mercari Price Suggestion</a><br>
 With data from the <a href="https://www.kaggle.com/c/mercari-price-suggestion-challenge">Mercari Price Suggestion Challenge</a>, I... uh challenge myself to suggest prices. Currently in the top 33% after one submission, a lot of room to improve. If only I could use the same batch sizes on my computer as the Kaggle kernel. Time to get that GTX 1080ti...
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/toxiccomments/Toxic%20Comments%20Classification.ipynb">Toxic Comments Classification</a><br>
