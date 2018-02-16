@@ -2,8 +2,8 @@
 
 ### Prediction and Analysis
 
-<a href="https://github.com/keithqu/dsp/blob/master/yelp/Yelp%20Stars%20Prediction.ipynb">Yelp Star Prediction</a><br>
-I wanted to see, along with review text, which factors affect Yelp star ratings. So I do some classification with Keras on 630,000+ reviews of businesses in the Toronto area.
+<a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/yelp/Yelp%20Stars%20Prediction.ipynb">Yelp Star Prediction</a><br>
+I wanted to see, along with review text, which factors affect Yelp star ratings. So I do some classification with Keras on 630,000+ reviews of businesses in the Toronto area. I try to incorporate external factors such as temperature and day of week to see if they can help predict star ratings.
 
 <a href="http://nbviewer.jupyter.org/github/keithqu/dsp/blob/master/credit%20risk/Credit%20Risk%20Predictions.ipynb">Credit Risk Classification</a><br>
 Risk classification with 150,000 training and 100,000 test observations from Kaggle's <a href="https://www.kaggle.com/c/GiveMeSomeCredit">Give Me Some Credit</a> competition. Highest private leaderboard score so far is 0.866752.
